@@ -696,8 +696,447 @@
             "gestione dell’impressione.",
             "self-serving bias."
         ]
+    },
+    {
+        "domanda": "Le immagini di ciò che desideriamo o temiamo di diventare in futuro sono chiamate:",
+        "risposta_corretta": "sé possibili.",
+        "altre_risposte": [
+            "sé trasparenti.",
+            "sé sperati.",
+            "sé eventuali."
+        ]
+    },
+    {
+        "domanda": "L’illusione che ci porta a ritenere che le nostre emozioni nascoste affiorino e possano essere facilmente comprese dagli altri è l'illusione:",
+        "risposta_corretta": "di trasparenza.",
+        "altre_risposte": [
+            "di un gruppo.",
+            "di autoreferenzialità.",
+            "dell’effetto riflettore."
+        ]
+    },
+    {
+        "domanda": "L’illusione che porta le persone a ritenere che le loro emozioni nascoste affiorino e possano essere facilmente lette dagli altri si chiama illusione di:",
+        "risposta_corretta": "trasparenza.",
+        "altre_risposte": [
+            "headlight.",
+            "audience.",
+            "spotlight."
+        ]
+    },
+    {
+        "domanda": "La percezione della propria efficacia e competenza si chiama:",
+        "risposta_corretta": "autoefficacia.",
+        "altre_risposte": [
+            "autocelebrazione.",
+            "autostima.",
+            "autovalutazione."
+        ]
+    },
+    {
+        "domanda": "Il sé caratterizzato da una configurazione unica di attributi interni e di comportamenti derivanti principalmente da quegli stessi attributi è detto:",
+        "risposta_corretta": "sé indipendente.",
+        "altre_risposte": [
+            "nessuna delle precedenti.",
+            "sé automonitorato.",
+            "sé autonomo."
+        ]
+    },
+    {
+        "domanda": "La convinzione che gli altri prestino più attenzione al nostro aspetto e al nostro comportamento di quanto non facciano in realtà si chiama effetto ____.",
+        "risposta_corretta": "spotlight.",
+        "altre_risposte": [
+            "audience.",
+            "headlight.",
+            "trasparenza."
+        ]
+    },
+    {
+        "domanda": "Il concetto di sé è alimentato non solo dai ruoli, dall’identità sociale e dai confronti con gli altri, ma anche:",
+        "risposta_corretta": "dalle esperienze quotidiane.",
+        "altre_risposte": [
+            "dalle difficoltà di ogni giorno.",
+            "da fattori genetici.",
+            "dagli eventi stressanti rari, come una crisi familiare."
+        ]
+    },
+    {
+        "domanda": "L’effetto della falsa unicità è:",
+        "risposta_corretta": "la tendenza a sottovalutare la diffusione delle proprie capacità e dei propri comportamenti desiderabili o di successo.",
+        "altre_risposte": [
+            "l’anticipazione dei problemi per motivare un’azione efficace.",
+            "la tendenza a considerare se stessi come superiori agli altri.",
+            "l’ottimismo irrealistico circa gli eventi futuri della vita."
+        ]
+    },
+    {
+        "domanda": "Usiamo l’immagine che gli altri ci rimandano di noi, come in uno specchio, per percepire noi stessi. Questo si chiama:",
+        "risposta_corretta": "sé riflesso.",
+        "altre_risposte": [
+            "bassa autostima.",
+            "confronto sociale.",
+            "profezia che si autoavvera."
+        ]
+    },
+    {
+        "domanda": "Quale delle seguenti affermazioni è un esempio di ottimismo irrealistico?",
+        "risposta_corretta": "Sono sicuro che otterrò un buon posto di lavoro quando sarò laureato.",
+        "altre_risposte": [
+            "Se smetto di fumare, diminuirò il rischio di avere un cancro.",
+            "Il mercato dei titoli finanziari è un ambito rischioso.",
+            "Se studio abbastanza, farò bene questo esame."
+        ]
+    },
+    {
+        "domanda": "La percezione del proprio valore è anche chiamata:",
+        "risposta_corretta": "autostima.",
+        "altre_risposte": [
+            "autovalore.",
+            "autoefficacia.",
+            "concetto di sé."
+        ]
+    },
+    {
+        "domanda": "Pensare che tutti guardino il foruncolo sul nostro mento è un esempio di:",
+        "risposta_corretta": "effetto spotlight.",
+        "altre_risposte": [
+            "effetto trasparenza.",
+            "effetto audience.",
+            "effetto headlight."
+        ]
+    },
+    {
+        "domanda": "Il tuo amico non ha passato il compito d’esame lo scorso appello e pensa che sia colpa del professore che ha dato un compito difficilissimo. Il tuo amico mostra di avere un locus of control ____.",
+        "risposta_corretta": "esterno",
+        "altre_risposte": [
+            "interno",
+            "basso",
+            "alto"
+        ]
+    },
+    {
+        "domanda": "L’automonitoraggio (self-monitoring) è:",
+        "risposta_corretta": "la regolazione delle proprie performance alle situazioni sociali allo scopo di formare e creare l’impressione desiderata.",
+        "altre_risposte": [
+            "il desiderio di offrire l’immagine desiderata ad un pubblico esterno.",
+            "la denigrazione di se stessi (falsa modestia) per sollecitare sentimenti di rassicurazione.",
+            "la protezione della propria immagine di sé attraverso la creazione di una scusa pronta in vista di un possibile insuccesso futuro."
+        ]
+    },
+    {
+        "domanda": "Heine e colleghi (1999) hanno scoperto che tra gli studenti giapponesi coinvolti in progetti di scambio culturale che avevano trascorso diversi mesi presso un’università canadese l’autostima ____. Questo suggerisce che il concetto di sé si fa più individualizzato dopo aver visitato i Paesi occidentali.",
+        "risposta_corretta": "risultava incrementata",
+        "altre_risposte": [
+            "risultava diminuita",
+            "rimaneva costante",
+            "si alzava ed abbassava rapidamente"
+        ]
+    },
+    {
+        "domanda": "Dare priorità ai propri obiettivi rispetto a quelli del gruppo e definire la propria identità in termini di attributi personali invece che di identificazioni di gruppo è la definizione di:",
+        "risposta_corretta": "individualismo.",
+        "altre_risposte": [
+            "individualità.",
+            "bassa autostima.",
+            "alta autostima."
+        ]
+    },
+    {
+        "domanda": "La caratteristica della personalità definita come il grado di sensibilità alle richieste delle situazioni sociali che porta a regolare le proprie performance allo scopo di formare e creare l’impressione desiderata è definita:",
+        "risposta_corretta": "automonitoraggio.",
+        "altre_risposte": [
+            "autopresentazione.",
+            "presentazione del proprio sé.",
+            "autoespressione."
+        ]
+    },
+    {
+        "domanda": "Quando siamo soggetti ai self-serving bias, tendiamo ad attribuire i nostri successi ____ e i nostri fallimenti ____.",
+        "risposta_corretta": "alle abilità; al caso",
+        "altre_risposte": [
+            "al caso; alle abilità",
+            "al timore per i sé possibili; alla speranza per i sé possibili",
+            "alla speranza per i sé possibili; al timore per i sé possibili"
+        ]
+    },
+    {
+        "domanda": "Si è probabilmente più soddisfatti nella scelta di un tipo di cioccolatini da acquistare se si hanno a disposizione ____ opzioni, piuttosto che ____ opzioni.",
+        "risposta_corretta": "poche; molte",
+        "altre_risposte": [
+            "nessuna; poche",
+            "alcune; nessuna",
+            "molte; poche"
+        ]
+    },
+    {
+        "domanda": "Incolpare l’albero di essere comparso sul nostro tragitto dopo che ci abbiamo sbattuto contro con la nostra macchina è un esempio di:",
+        "risposta_corretta": "self-serving bias.",
+        "altre_risposte": [
+            "scarsa autoefficacia.",
+            "scarso autocontrollo.",
+            "scarsa autostima."
+        ]
+    },
+    {
+        "domanda": "Crocker e colleghi (2002; 2003; 2004; 2005) hanno dimostrato che gli studenti che sperimentavano maggiore stress, ansia, problemi relazionali, uso di droghe e disordini alimentari avevano un’autostima più fragile, ossia più legata ____ rispetto agli altri.",
+        "risposta_corretta": "alle risorse esterne",
+        "altre_risposte": [
+            "alle risorse interne",
+            "al timore per i sé possibili",
+            "alla speranza per i sé possibili"
+        ]
+    },
+    {
+        "domanda": "La risposta di una persona alla domanda “Chi sono io?” riguarda:",
+        "risposta_corretta": "il concetto di sé.",
+        "altre_risposte": [
+            "la sua personalità.",
+            "la sua autostima.",
+            "lo schema di sé."
+        ]
+    },
+    {
+        "domanda": "Dopo aver visto il premio in palio per la lotteria, si immagina per se stesso una vita da persona ricca e famosa. Questo schema di sé che si immagina è un esempio di:",
+        "risposta_corretta": "sé possibile.",
+        "altre_risposte": [
+            "sé eventuale.",
+            "sé temuto.",
+            "sé sperato."
+        ]
+    },
+    {
+        "domanda": "Se gli sforzi iniziali di una persona di perdere peso, smettere di fumare o migliorare i suoi voti a scuola hanno successo, probabilmente la sua autoefficacia:",
+        "risposta_corretta": "aumenterà.",
+        "altre_risposte": [
+            "diminuirà.",
+            "rimarrà la stessa.",
+            "eventualmente si stabilizzerà."
+        ]
+    },
+    {
+        "domanda": "L’autoefficacia, come l’autostima, ____ faticoso raggiungimento di obiettivi ambiziosi.",
+        "risposta_corretta": "contribuisce al",
+        "altre_risposte": [
+            "viene incrementata con il",
+            "è indipendente dal",
+            "viene diminuita con il"
+        ]
+    },
+    {
+        "domanda": "La maggior parte delle persone si considera:",
+        "risposta_corretta": "con minori pregiudizi degli altri.",
+        "altre_risposte": [
+            "in grado di conoscere gli altri meglio di quanto conosce se stessa.",
+            "meno intelligente degli altri.",
+            "meno avvenente degli altri."
+        ]
+    },
+    {
+        "domanda": "L’effetto autoreferenziale si riferisce alla tendenza a elaborare in modo efficace e a ricordare bene le informazioni:",
+        "risposta_corretta": "relative a se stessi.",
+        "altre_risposte": [
+            "incompatibili con se stessi.",
+            "contribuiscono al concetto di sé.",
+            "non pertinenti con se stessi."
+        ]
+    },
+    {
+        "domanda": "La tendenza a percepire se stessi in modo eccessivamente positivo e favorevole per il sé è definita:",
+        "risposta_corretta": "self-serving bias.",
+        "altre_risposte": [
+            "eccesso di autostima.",
+            "autoreferenzialità.",
+            "nessuna delle precedenti."
+        ]
+    },
+  {
+    "domanda": "Nel loro studio, Gilovich, Medvec e Savitsky (2000) fanno indossare a studenti universitari imbarazzanti giacche alla Barry Manilow, prima di entrare in aula con altri studenti. Quale effetto intendevano esplorare con questo esperimento?",
+    "risposta_corretta": "Effetto spotlight.",
+    "altre_risposte": [
+      "Effetto audience.",
+      "Effetto headlight.",
+      "Effetto trasparenza."
+    ]
+  },
+    {
+        "domanda": "In una situazione di competitività, spesso si finisce per proteggere il concetto di sé percependo:",
+        "risposta_corretta": "l’avversario come avvantaggiato rispetto a noi.",
+        "altre_risposte": [
+            "l’avversario come svantaggiato rispetto a noi.",
+            "noi stessi come superiori all’avversario.",
+            "l’avversario come superiore a noi."
+        ]
+    },
+    {
+        "domanda": "La valutazione delle proprie capacità e opinioni mediante il confronto tra sé e gli altri è chiamata:",
+        "risposta_corretta": "confronto sociale.",
+        "altre_risposte": [
+            "timore per i sé possibili.",
+            "rango sociale.",
+            "speranza per i sé possibili."
+        ]
+    },
+    {
+        "domanda": "L’autostima, nelle culture ____ tende ad essere strettamente correlata a “ciò che gli altri pensano di me e del mio gruppo”.",
+        "risposta_corretta": "collettiviste",
+        "altre_risposte": [
+            "eterocentrate",
+            "autocentrate",
+            "individualistiche"
+        ]
+    },
+    {
+        "domanda": "La tendenza ad assegnare priorità agli obiettivi del proprio gruppo di appartenenza (spesso la famiglia allargata o il gruppo di lavoro) e a definire la propria identità in base a esso si chiama:",
+        "risposta_corretta": "collettivismo.",
+        "altre_risposte": [
+            "collaborazione.",
+            "pensiero di gruppo.",
+            "cooperazione."
+        ]
+    },
+    {
+        "domanda": "In quale tipo di cultura l’autostima è più legata a fattori personali e meno a fattori relazionali?",
+        "risposta_corretta": "Individualistica.",
+        "altre_risposte": [
+            "Collettivista.",
+            "Autocentrata.",
+            "Eterocentrata."
+        ]
+    },
+    {
+        "domanda": "Heatherton and Vohs (2000) hanno scoperto che quando ci si sente minacciati da un’esperienza di fallimento a un test attitudinale, le persone con ____ hanno un atteggiamento notevolmente più competitivo rispetto a quello che avevano prima di sentirsi minacciate.",
+        "risposta_corretta": "un’alta autostima.",
+        "altre_risposte": [
+            "una bassa autostima.",
+            "una bassa autoefficacia.",
+            "un’alta autoefficacia."
+        ]
+    },
+    {
+        "domanda": "La misura in cui le persone percepiscono i risultati ottenuti come internamente controllabili mediante il proprio impegno e le proprie azioni o esternamente governati dal caso e da forze esterne al sé è definita:",
+        "risposta_corretta": "locus of control.",
+        "altre_risposte": [
+            "automonitoraggio.",
+            "self-control.",
+            "autocontrollo."
+        ]
+    },
+    {
+        "domanda": "Le persone con una bassa autostima è ____ che abbiano problemi clinici come ansia, solitudine e disturbi alimentari.",
+        "risposta_corretta": "più probabile",
+        "altre_risposte": [
+            "meno probabile",
+            "impossibile",
+            "non è possibile rispondere"
+        ]
+    },
+    {
+        "domanda": "Dopo una lunga riflessione, decidete di declinare l’invito ad una festa veramente grandiosa perché ritenete che in questo momento, per voi, sia più importante studiare per superare un esame universitario: il buon esito di questo esame vi consentirebbe di mantenere alta la media e di accedere così alla laurea magistrale che voi in assoluto preferite. Comportandovi così, dimostrate di avere un locus of control ____.",
+        "risposta_corretta": "interno",
+        "altre_risposte": [
+            "basso",
+            "esterno",
+            "alto"
+        ]
+    },
+    {
+        "domanda": "Barbara è rimasta molto sorpresa quando il candidato che sosteneva non è stato eletto. Le sembrava che tutti concordassero con lei sulle competenze del candidato e che tutti lo ritenessero il migliore. Questo è un esempio di:",
+        "risposta_corretta": "effetto del falso consenso.",
+        "altre_risposte": [
+            "pessimismo difensivo.",
+            "self-serving bias.",
+            "ottimismo irrealistico."
+        ]
+    },
+    {
+        "domanda": "I canoni personali verso cui si tende a conformarsi sono detti:",
+        "risposta_corretta": "guide del sé.",
+        "altre_risposte": [
+            "canoni personali.",
+            "canoni del sé.",
+            "canoni ideali."
+        ]
+    },
+    {
+        "domanda": "I ricercatori sottolineano che sia l’ansia sia la depressione sono correlate ____ con l’autoefficacia.",
+        "risposta_corretta": "negativamente",
+        "altre_risposte": [
+            "debolmente",
+            "moderatamente",
+            "positivamente"
+        ]
+    },
+    {
+        "domanda": "Lei sta frequentando un gruppo di auto-aiuto in cui il leader incoraggia le persone a pensarsi come scrittori, registi o attori della propria vita. Il leader spera che in questo modo le persone adotteranno un locus of control ____.",
+        "risposta_corretta": "interno.",
+        "altre_risposte": [
+            "esterno.",
+            "alto.",
+            "basso."
+        ]
+    },
+    {
+        "domanda": "Baumeister (1996) ritiene che coloro che tendono a rivelarsi detestabili, interrompono una conversazione e parlano agli altri piuttosto che con gli altri, tendono a possedere:",
+        "risposta_corretta": "un’alta autostima.",
+        "altre_risposte": [
+            "una bassa autostima.",
+            "un’alta autoefficacia.",
+            "una bassa autoefficacia."
+        ]
+    },
+    {
+        "domanda": "La motivazione a esprimersi e comportarsi in modi volti a creare negli altri un’impressione favorevole o che si desidera è definita:",
+        "risposta_corretta": "autopresentazione.",
+        "altre_risposte": [
+            "autorappresentazione.",
+            "autoraffigurazione.",
+            "presentazione del proprio sé."
+        ]
+    },
+    {
+        "domanda": "Nello studio di Kitayama (1996) sulle differenze culturali nei complimenti fatti o ricevuti da amici, i risultati mostrano che gli americani sono ____ propensi a fare complimenti agli altri quando sono messi a confronto con i giapponesi.",
+        "risposta_corretta": "più",
+        "altre_risposte": [
+            "non",
+            "significativamente meno",
+            "leggermente meno"
+        ]
+    },
+    {
+        "domanda": "Il fatto che le persone che nutrono idee negative su certo gruppo presumono che anche molte altre persone ne abbiano, può essere spiegato attraverso:",
+        "risposta_corretta": "l’effetto del falso consenso.",
+        "altre_risposte": [
+            "il self-serving bias.",
+            "l’effetto della falsa unicità.",
+            "l’ottimismo irrealistico."
+        ]
+    },
+    {
+        "domanda": "Gli studi hanno evidenziato che i detenuti a cui viene offerto un certo livello di controllo sull’ambiente in cui si trovano, come spostare sedie e accendere le luci:",
+        "risposta_corretta": "commettono un minor numero di atti vandalici.",
+        "altre_risposte": [
+            "tentano di controllare anche altri aspetti della loro vita.",
+            "sperimentano più stress.",
+            "mostrano più problemi di salute."
+        ]
+    },
+    {
+        "domanda": "Schwartz sostiene che le culture moderne improntate all’individualismo godano di un “eccesso di libertà” che è positivamente correlato con:",
+        "risposta_corretta": "la depressione clinica.",
+        "altre_risposte": [
+            "la soddisfazione della vita.",
+            "l’autoefficacia.",
+            "un locus of control esterno."
+        ]
     }
 ]
+
+
+
+
+
+
+
 
 
 
