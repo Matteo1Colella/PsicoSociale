@@ -1,0 +1,656 @@
+[
+    {
+        "domanda": "Due ricercatori che hanno contribuito alla costruzione dell’identità della psicologia sociale europea dopo il 1960 sono:",
+        "risposta_corretta": "Tajfel e Moscovici",
+        "altre_risposte": ["Aronson e Aronson", "Doise e Hellpach", "Bon e Tarde"]
+    },
+    {
+        "domanda": "Psicologico o intrapersonale, interpersonale o intrasituazionale, posizionale e ideologico sono i livelli di spiegazione della psicologia sociale individuati da:",
+        "risposta_corretta": "Doise",
+        "altre_risposte": ["Lewin", "Moscovici", "Tajfel"]
+    },
+    {
+        "domanda": "Che cos’è la teoria di campo secondo Lewin?",
+        "risposta_corretta": "Un metodo di analisi delle relazioni causali fra eventi e di produzione di costrutti scientifici, orientata a fornire una comprensione scientifica dei fatti sociali.",
+        "altre_risposte": [
+            "Un metodo sperimentale volto a favorire la produzione di costrutti scientifici.",
+            "Un metodo di verifica delle relazioni causali fra persone, orientata a fornire una buona teoria sui fatti intrapsichici.",
+            "Una teoria scientifica volta a fornire una comprensione scientifica degli affetti."
+        ]
+    },
+    {
+        "domanda": "L’altro nome con cui viene chiamato il “fenomeno del io-lo-so-da-sempre” è:",
+        "risposta_corretta": "bias della retrospezione",
+        "altre_risposte": ["bias della previsione", "bias della distorsione", "bias dell’informazione"]
+    },
+    {
+        "domanda": "A parere di Le Bon le folle sono caratterizzate da:",
+        "risposta_corretta": "irrazionalità",
+        "altre_risposte": ["imitazione", "razionalità", "spirito di comunanza"]
+    },
+    {
+        "domanda": "La psicologia sociale è definita come lo studio scientifico del modo in cui le persone e i gruppi:",
+        "risposta_corretta": "percepiscono e pensano gli altri, li influenzano e si pongono in relazione con loro.",
+        "altre_risposte": [
+            "motivano e persuadono gli altri.",
+            "manipolano gli altri, li usano e li tradiscono.",
+            "si conformano, si aiutano e definiscono atteggiamenti sugli altri."
+        ]
+    },
+  {
+    "domanda": "I primi due testi di psicologia sociale sono ad opera di ____ nel ____.",
+    "risposta_corretta": "McDougall e Ross; 1908",
+    "altre_risposte": [
+      "Triplett e Ringelmann; 1895",
+      "Wundt e Allport; 1879",
+      "Le Bon e Trade; 1885"
+    ]
+  },
+    {
+        "domanda": "Le rappresentazioni sociali sono:",
+        "risposta_corretta": "credenze socialmente condivise, includenti i nostri assunti e sistemi culturali.",
+        "altre_risposte": [
+            "stereotipi che sono radicati nel razzismo piuttosto che nella realtà.",
+            "impegni valoriali di una cultura.",
+            "idee intuitive che si sono dimostrate vere."
+        ]
+    },
+    {
+        "domanda": "Il teorico della psicologia delle folle è:",
+        "risposta_corretta": "Le Bon",
+        "altre_risposte": ["Wundt", "Triplett", "Ringelmann"]
+    },
+    {
+        "domanda": "La psicologia sociale focalizza l’attenzione su:",
+        "risposta_corretta": "l’articolazione tra processi psicologici e processi sociali.",
+        "altre_risposte": [
+            "l’articolazione tra pensiero e azione nel cambiamento.",
+            "gli elementi intrapsichici.",
+            "l’articolazione tra processi intrapsichici e processi psicologici."
+        ]
+    },
+    {
+        "domanda": "Chi ha formulato la proposta di una lettura ternaria dei fatti e delle relazioni?",
+        "risposta_corretta": "Moscovici",
+        "altre_risposte": ["Wundt", "Tajfel", "Allport"]
+    },
+    {
+        "domanda": "I due studiosi che hanno sviluppato la psicologia delle folle sono:",
+        "risposta_corretta": "Le Bon e Tarde",
+        "altre_risposte": [
+            "Triplett e Ringelmann",
+            "McDougall e Allport",
+            "Wundt e Ross"
+        ]
+    },
+    {
+        "domanda": "Che cosa sviluppano secondo Le Bon le folle?",
+        "risposta_corretta": "Un inconscio collettivo.",
+        "altre_risposte": [
+            "Un inconscio personale.",
+            "Sapere.",
+            "Qualità intellettuali."
+        ]
+    },
+    {
+        "domanda": "A parere di Moscovici tra soggetto e oggetto si inserisce un terzo elemento che funge da mediatore. Qual è questo terzo elemento?",
+        "risposta_corretta": "Il sociale.",
+        "altre_risposte": ["La vita.", "La sfera emozionale.", "Il ricercatore."]
+    },
+    {
+        "domanda": "Quale delle seguenti affermazioni è un esempio di come i nostri atteggiamenti e comportamenti sono modellati dalle forze sociali esterne?",
+        "risposta_corretta": "I nostri standard di prontezza, bellezza ed uguaglianza variano con la nostra cultura.",
+        "altre_risposte": [
+            "La tua indole personale influenza le tue scelte.",
+            "Le componenti ereditarie della natura umana ci predispongono a reagire in certi modi.",
+            "Le nostre opinioni politiche influenzano il nostro comportamento di voto."
+        ]
+    },
+    {
+        "domanda": "Il primo studio di psicologia sociale è ritenuto essere quello di ____ nel ____.",
+        "risposta_corretta": "Triplett; 1895",
+        "altre_risposte": [
+            "Allport; 1924",
+            "Wundt; 1879",
+            "Le Bon; 1885"
+        ]
+    },
+    {
+        "domanda": "La psicologia delle folle e la Volkerpsichologie si sono sviluppate:",
+        "risposta_corretta": "in Europa.",
+        "altre_risposte": [
+            "in America Latina.",
+            "negli Stati Uniti.",
+            "in Africa."
+        ]
+    },
+    {
+        "domanda": "La concezione della psicologia sociale proposta da Floyd Allport è:",
+        "risposta_corretta": "individualista",
+        "altre_risposte": ["relazionale", "costruttivista", "simbolica"]
+    },
+    {
+        "domanda": "Rispetto al discorso di Myers sulle intuizioni, quale delle seguenti affermazioni risulta vera?",
+        "risposta_corretta": "L’intuizione è sia potente che pericolosa.",
+        "altre_risposte": [
+            "Nessuna di queste affermazioni è vera.",
+            "Le intuizioni che abbiamo su noi stessi sono di solito vere.",
+            "Le intuizioni sono credenze attentamente considerate."
+        ]
+    },
+    {
+        "domanda": "In che anno è stato scritto il libro di Le Bon “La psicologia delle folle”?",
+        "risposta_corretta": "1895",
+        "altre_risposte": ["1885", "1908", "1934"]
+    },
+    {
+        "domanda": "L’immagine che Le Bon offre delle folle è decisamente:",
+        "risposta_corretta": "negativa",
+        "altre_risposte": ["positiva", "simbolica", "costruttiva"]
+    },
+    {
+        "domanda": "Chi è il massimo esponente della Volkerpsichologie?",
+        "risposta_corretta": "Wundt",
+        "altre_risposte": ["Le Bon", "Ringelmann", "Tarde"]
+    },
+    {
+        "domanda": "La psicologia sociale europea fa riferimento a:",
+        "risposta_corretta": "il sociale",
+        "altre_risposte": [
+            "un aggregato di persone",
+            "un sociale organizzato",
+            "nessuna di queste."
+        ]
+    },
+    {
+        "domanda": "Quando le hanno chiesto chi pensava avrebbe vinto le elezioni presidenziali, lei ha risposto che non lo sapeva. Tuttavia, dopo i risultati elettorali, ha sostenuto che il risultato appariva ovvio. Questa è una spiegazione del:",
+        "risposta_corretta": "bias della retrospezione",
+        "altre_risposte": [
+            "bias della previsione",
+            "bias dell’informazione",
+            "bias della distorsione"
+        ]
+    },
+    {
+        "domanda": "Secondo Le Bon i meccanismi alla base del funzionamento delle folle sono:",
+        "risposta_corretta": "contagio mentale, senso di potenza, suggestionabilità.",
+        "altre_risposte": [
+            "indebolimento della coscienza, suggestionabilità, ipnosi.",
+            "contagio mentale, senso di potenza, imitazione.",
+            "educazione, senso di potenza, suggestionabilità."
+        ]
+    },
+    {
+        "domanda": "I valori entrano a far parte del lavoro dei ricercatori in psicologia sociale quando essi:",
+        "risposta_corretta": "scelgono gli argomenti dei loro studi.",
+        "altre_risposte": [
+            "raccolgono i dati per i loro studi.",
+            "presentano i risultati dei loro studi.",
+            "riassumono i loro studi."
+        ]
+    },
+    {
+        "domanda": "Tarde sostiene che ____ sia il vero motore del mondo.",
+        "risposta_corretta": "l’imitazione.",
+        "altre_risposte": [
+            "lo spirito di gruppo.",
+            "il contagio mentale.",
+            "l’inconscio personale."
+        ]
+    },
+    {
+        "domanda": "A parere di Tarde dietro a ogni fatto sociale vi sono:",
+        "risposta_corretta": "l’imitazione e la vita sociale.",
+        "altre_risposte": [
+            "l’inconscio personale e la persona.",
+            "la persona e la sua famiglia.",
+            "la persona e il suo contesto di vita."
+        ]
+    },
+    {
+        "domanda": "Le radici della psicologia sociale vengono ricondotte a due approcci:",
+        "risposta_corretta": "psicologia delle folle e Volkerpsichologie.",
+        "altre_risposte": [
+            "psicologia dell’imitazione e Volkerpsichologie.",
+            "psicologia delle masse e psicoanalisi.",
+            "integrazionismo simbolico e psicologia delle folle."
+        ]
+    },
+    {
+        "domanda": "“La psicologia sociale deve occuparsi dei rapporti face-to-face”. È una frase di:",
+        "risposta_corretta": "Allport",
+        "altre_risposte": ["Tajfel", "Moscovici", "Wundt"]
+    },
+    {
+        "domanda": "Uno degli elementi che connota la psicologia sociale europea e la distingue da quella americana è:",
+        "risposta_corretta": "l’assunzione di una prospettiva interazionista del soggetto.",
+        "altre_risposte": [
+            "l’assunzione di una prospettiva individualista del soggetto.",
+            "nessuna di queste.",
+            "l’assunzione di una prospettiva sperimentalista del soggetto."
+        ]
+    },
+    {
+        "domanda": "I comportamenti, gli atteggiamenti, le idee e le tradizioni stabili condivise da un ampio gruppo di persone e trasmesse di generazione in generazione fanno riferimento a:",
+        "risposta_corretta": "la cultura.",
+        "altre_risposte": [
+            "le rappresentazioni sociali.",
+            "la razza.",
+            "la nazionalità."
+        ]
+    },
+    {
+        "domanda": "Quando parla di sguardo psicosociale agli oggetti Moscovici intende:",
+        "risposta_corretta": "una modalità particolare di osservare e indagare i fenomeni sociali, orientato da teorie e osservazioni dirette dei rapporti tra persone e gruppi in uno specifico contesto sociale.",
+        "altre_risposte": [
+            "una modalità particolare di osservare e indagare i fenomeni umani, orientato da ricerche sperimentali volte a studiare i gruppi sul campo.",
+            "una modalità generale di osservare e indagare i fenomeni sociali, orientato da teorie e osservazioni indirette delle persone e dei gruppi in laboratorio.",
+            "una modalità particolare di osservare e indagare i fenomeni sociali, orientato da teorie e osservazioni sperimentali in un ampio contesto."
+        ]
+    },
+    {
+        "domanda": "Il fattore sperimentale che un ricercatore manipola in uno studio è chiamato variabile:",
+        "risposta_corretta": "indipendente.",
+        "altre_risposte": [
+            "dipendente.",
+            "correlazionale.",
+            "di controllo."
+        ]
+    },
+    {
+        "domanda": "Uno sperimentatore pone i soggetti in stanze con temperature ambientali diverse per determinarne gli effetti sull’aggressività. In questo studio l’aggressività rappresenta la:",
+        "risposta_corretta": "variabile dipendente.",
+        "altre_risposte": [
+            "variabile di controllo.",
+            "variabile confondente.",
+            "variabile indipendente."
+        ]
+    },
+    {
+        "domanda": "Un/una ____ è un insieme integrato di principi che spiegano e predicono gli eventi osservati.",
+        "risposta_corretta": "teoria",
+        "altre_risposte": [
+            "ipotesi",
+            "fatto",
+            "correlazione"
+        ]
+    },
+    {
+        "domanda": "Il grado in cui un esperimento è simile superficialmente alle situazioni quotidiane si chiama:",
+        "risposta_corretta": "realismo mondano.",
+        "altre_risposte": [
+            "esperimento realistico.",
+            "realismo sperimentale.",
+            "esperimento realistico."
+        ]
+    },
+    {
+        "domanda": "Il tuo professore di psicologia le dice che sta raccogliendo dei dati sulla quantità di tempo che gli studenti dedicano allo studio e i loro voti. Che tipo di ricerca è questa?",
+        "risposta_corretta": "Ricerca correlazionale.",
+        "altre_risposte": [
+            "Ricerca controllata.",
+            "Ricerca ipotetica.",
+            "Ricerca sperimentale."
+        ]
+    },
+    {
+        "domanda": "Ciò che gli psicologi sociali cercano nei loro esperimenti non è tanto il realismo ____ quanto il realismo ____.",
+        "risposta_corretta": "mondano; sperimentale",
+        "altre_risposte": [
+            "sperimentale; mondano",
+            "sociale; psicologico",
+            "psicologico; sociale"
+        ]
+    },
+    {
+        "domanda": "Il processo nel quale ogni persona ha la stessa probabilità di essere assegnata a una certa condizione di un esperimento è detto:",
+        "risposta_corretta": "assegnazione casuale.",
+        "altre_risposte": [
+            "campione casuale.",
+            "processo di selezione del campione.",
+            "campionamento a palla di neve."
+        ]
+    },
+    {
+        "domanda": "Sei interessato a scoprire gli effetti che l’affollamento ha sull’umore. Conduci uno studio in un laboratorio di psicologia coinvolgendo due tipi di partecipanti – partecipanti che devono aspettare in una sala d’aspetto affollata prima di completare la misura del loro umore, e partecipanti che aspettano in una sala d’aspetto vuota prima di completare la stessa misura. Qual è la variabile dipendente?",
+        "risposta_corretta": "Umore.",
+        "altre_risposte": [
+            "Partecipanti.",
+            "Affollamento.",
+            "Tempo di attesa."
+        ]
+    },
+    {
+        "domanda": "Il reperimento dei soggetti per l'esperimento carcerario di Standford avvenne tramite:",
+        "risposta_corretta": "inserzione su un giornale locale.",
+        "altre_risposte": [
+            "chiamata telefonica.",
+            "campionamento a palla di neve.",
+            "sorteggio casuale."
+        ]
+    },
+    {
+        "domanda": "_______ e ______ sono due ingredienti specifici della ricerca in psicologia sociale che contribuiscono ad alimentare l'idea giocosa della psicologia ma che hanno importanti risvolti etici.",
+        "risposta_corretta": "Storie di copertura e inganno",
+        "altre_risposte": [
+            "La condizione di controllo e l’assegnazione casuale.",
+            "La formulazione delle domande e le influenze.",
+            "Uso di sondaggi e inganno."
+        ]
+    },
+    {
+        "domanda": "Per dimostrare la causalità, i ricercatori devono usare una ricerca ____.",
+        "risposta_corretta": "sperimentale",
+        "altre_risposte": [
+            "osservazione sul campo",
+            "correlazionale",
+            "studio di un caso"
+        ]
+    },
+    {
+        "domanda": "La variabile che viene misurata in un esperimento, chiamata così perchè i suoi valori potrebbero dipendere dalle manipolazioni di un’altra variabile, è chiamata variabile:",
+        "risposta_corretta": "dipendente.",
+        "altre_risposte": [
+            "di controllo.",
+            "indipendente.",
+            "sperimentale."
+        ]
+    },
+    {
+        "domanda": "Assegnare i partecipanti alle diverse condizioni di un disegno sperimentale utilizzando il lancio di una moneta è un esempio di:",
+        "risposta_corretta": "assegnazione casuale.",
+        "altre_risposte": [
+            "campionamento rappresentativo.",
+            "errore di campionamento.",
+            "campionamento casuale."
+        ]
+    },
+    {
+        "domanda": "Quale dei seguenti è uno svantaggio della ricerca correlazionale?",
+        "risposta_corretta": "Essa offre interpretazioni ambigue delle cause e degli effetti.",
+        "altre_risposte": [
+            "Essa aiuta nella lettura di giornali e riviste.",
+            "Si realizza in laboratorio.",
+            "Essa coinvolge variabili importanti del setting naturale."
+        ]
+    },
+    {
+        "domanda": "Come risultato dell’assegnazione casuale, le persone di entrambi i gruppi di un esperimento:",
+        "risposta_corretta": "hanno più probabilità di essere mediamente uguali su ogni cosa.",
+        "altre_risposte": [
+            "non sanno in quale gruppo si trovano.",
+            "hanno meno probabilità di essere uguali.",
+            "differiscono in modo significativo."
+        ]
+    },
+    {
+        "domanda": "Il grado in cui un esperimento assorbe e coinvolge i partecipanti si chiama:",
+        "risposta_corretta": "realismo sperimentale.",
+        "altre_risposte": [
+            "reality televisivo.",
+            "esperimento realistico.",
+            "realismo mondano."
+        ]
+    },
+    {
+        "domanda": "Una buona teoria deve fare predizioni che possano essere testate. Queste sono definite:",
+        "risposta_corretta": "ipotesi.",
+        "altre_risposte": [
+            "predizioni.",
+            "teorie.",
+            "fatti."
+        ]
+    },
+    {
+        "domanda": "Uno sperimentatore pone i soggetti in stanze con temperature ambientali diverse per determinarne gli effetti sull’aggressività. In questo studio l’aggressività rappresenta la:",
+        "risposta_corretta": "variabile dipendente.",
+        "altre_risposte": [
+            "variabile confondente.",
+            "variabile di controllo.",
+            "variabile indipendente."
+        ]
+    },
+    {
+        "domanda": "Sei interessato a scoprire gli effetti che l’affollamento ha sull’umore. Conduci uno studio in un laboratorio di psicologia coinvolgendo due tipi di partecipanti – partecipanti che devono aspettare in una sala d’aspetto affollata prima di completare la misura del loro umore, e partecipanti che aspettano in una sala d’aspetto vuota prima di completare la stessa misura. Qual è la variabile indipendente manipolata che hai deciso di manipolare?",
+        "risposta_corretta": "Affollamento.",
+        "altre_risposte": [
+            "Partecipanti.",
+            "Tempo di attesa.",
+            "Umore."
+        ]
+    },
+    {
+        "domanda": "______ è uno strumento di raccolta dei dati che consente di conoscere l’opinione delle persone relativamente a diverse tematiche.",
+        "risposta_corretta": "Questionario self report",
+        "altre_risposte": [
+            "Osservazione partecipata",
+            "Intervista",
+            "Osservazione casuale"
+        ]
+    },
+    {
+        "domanda": "Una teoria:",
+        "risposta_corretta": "sintetizza e spiega i fatti.",
+        "altre_risposte": [
+            "è un’affermazione condivisibile.",
+            "non può essere verificata.",
+            "è meno di un fatto."
+        ]
+    },
+    {
+        "domanda": "Quale dei seguenti è uno degli scopi di un’ipotesi?",
+        "risposta_corretta": "Le ipotesi ci permettono di confermare o modificare una teoria.",
+        "altre_risposte": [
+            "Le ipotesi comunicano i risultati degli studi di ricerca.",
+            "Le ipotesi forniscono una spiegazione dei risultati della ricerca.",
+            "Le ipotesi ci permettono di riassumere i risultati della ricerca."
+        ]
+    },
+    {
+        "domanda": "Lo scopo principale dell’assegnazione casuale in un esperimento è quello di:",
+        "risposta_corretta": "controllare la variabile dipendente.",
+        "altre_risposte": [
+            "massimizzare le differenze tra i gruppi.",
+            "controllare la variabile indipendente."
+        ]
+    },
+    {
+        "domanda": "Stai partecipando a un esperimento di psicologia e il ricercatore ti invita a tornare da lui, una volta che l’esperimento è terminato, per informarti maggiormente su esso e per esplorare assieme quali sentimenti sono stati sollecitati. Questo si chiama?",
+        "risposta_corretta": "Debriefing.",
+        "altre_risposte": [
+            "Contesto dell’esperimento.",
+            "Caratteristica della domanda.",
+            "Consenso informato."
+        ]
+    },
+    {
+        "domanda": "Uno sperimentatore pone i soggetti in stanze con temperature ambientali diverse per determinarne gli effetti sull’aggressività. In questo studio, le differenti temperature rappresentano:",
+        "risposta_corretta": "variabile indipendente.",
+        "altre_risposte": [
+            "variabile confondente.",
+            "variabile dipendente.",
+            "variabile di controllo."
+        ]
+    },
+    {
+        "domanda": "Nella ricerca di Snyder e Haugen sull’obesità e lo status sociale, agli studenti maschi veniva mostrata una foto di una donna obesa o di peso normale con cui avrebbero dovuto avere una conversazione telefonica. In questo studio, la variabile indipendente è:",
+        "risposta_corretta": "la foto della donna di peso normale o obesa.",
+        "altre_risposte": [
+            "lo status dello studente di sesso maschile.",
+            "l’argomento della conversazione scelto dagli studenti.",
+            "le competenze sociali della donna nell’essere intervistata."
+        ]
+    },
+    {
+        "domanda": "____ è un principio etico che richiede che i partecipanti alla ricerca siano informati sufficientemente in modo da poter scegliere se partecipare o meno alla ricerca.",
+        "risposta_corretta": "Il consenso informato",
+        "altre_risposte": [
+            "Il realismo mondano",
+            "L’inganno",
+            "Le caratteristiche della domanda"
+        ]
+    },
+    {
+        "domanda": "____ si verifica quando in uno studio i partecipanti sono disinformati o ingannati sui metodi e gli obiettivi della ricerca.",
+        "risposta_corretta": "L’inganno",
+        "altre_risposte": [
+            "L’assegnazione non casuale",
+            "La caratterizzazione della domanda",
+            "Il campionamento non casuale"
+        ]
+    },
+    {
+        "domanda": "Gli studi che indagano le relazioni causa-effetto manipolando uno o più fattori e tenendo sotto controllo gli altri quale tipo di ricerca stanno facendo?",
+        "risposta_corretta": "Ricerca sperimentale.",
+        "altre_risposte": [
+            "Ricerca sul campo.",
+            "Ricerca di laboratorio.",
+            "Ricerca correlazionale."
+        ]
+    },
+    {
+        "domanda": "Al fine di determinare se il cambiamento o meno di una variabile (come l’istruzione) produrrà dei cambiamenti in un’altra variabile (come il reddito), è necessario condurre una ricerca ____.",
+        "risposta_corretta": "sperimentale",
+        "altre_risposte": [
+            "descrittiva",
+            "correlazionale",
+            "statistica"
+        ]
+    },
+    {
+        "domanda": "I costrutti sono concetti astratti che vengono resi osservabili attraverso:",
+        "risposta_corretta": "le variabili.",
+        "altre_risposte": [
+            "l’osservazione diretta.",
+            "i questionari.",
+            "il controllo."
+        ]
+    },
+    {
+        "domanda": "Una proposizione testabile che descrive una relazione che potrebbe esistere tra gli eventi è:",
+        "risposta_corretta": "un’ipotesi.",
+        "altre_risposte": [
+            "un’affermazione.",
+            "una correlazione.",
+            "un bias."
+        ]
+    },
+    {
+        "domanda": "La validità della ricerca dipende dal grado di ____ attuato dal ricercatore.",
+        "risposta_corretta": "controllo",
+        "altre_risposte": [
+            "realismo sperimentale",
+            "influenza",
+            "definizione degli obiettivi"
+        ]
+    },
+    {
+        "domanda": "_______ è lo strumento che consente la registrazione del comportamento.",
+        "risposta_corretta": "Osservazione",
+        "altre_risposte": [
+            "Intervista non strutturata",
+            "Questionario",
+            "Intervista strutturata"
+        ]
+    },
+    {
+        "domanda": "Hai già partecipato a una ricerca in cui si chiedeva di scegliere quale figurava preferivi fra diverse coppie. Alla fine dello studio il ricercatore ha spiegato che voleva identificare delle correlazioni tra età, genere e gruppi razziali nel momento in cui le persone attuavano la scelta. La rivelazione da parte dello sperimentatore del vero obiettivo dello studio è parte di un processo di ____.",
+        "risposta_corretta": "debriefing",
+        "altre_risposte": [
+            "consenso informato",
+            "inganno",
+            "onestà sperimentale"
+        ]
+    },
+    {
+        "domanda": "Nella ricerca di Snyder e Haugen sull’obesità e lo status sociale, agli studenti maschi veniva mostrata una foto di una donna obesa o di peso normale con cui avrebbero dovuto avere una conversazione telefonica. In questo studio, la variabile dipendente è:",
+        "risposta_corretta": "la risposta dell’uomo alla donna.",
+        "altre_risposte": [
+            "il peso della donna.",
+            "la parte relativa alla conversazione con la donna.",
+            "la reazione dell’uomo alla foto."
+        ]
+    },
+    {
+        "domanda": "L’inganno in un esperimento è:",
+        "risposta_corretta": "usato solo se necessario e giustificato.",
+        "altre_risposte": [
+            "non etico.",
+            "utile per influenzare la volontà dei soggetti a partecipare.",
+            "sempre richiesto."
+        ]
+    },
+    {
+        "domanda": "La ricerca correlazionale ci permette di:",
+        "risposta_corretta": "fare previsioni.",
+        "altre_risposte": [
+            "scoprire variabili indipendenti.",
+            "inferire causa ed effetto.",
+            "controllare variabili."
+        ]
+    },
+    {
+        "domanda": "Uno psichiatra decide di somministrare casualmente 20 milligrammi di Prozac a metà dei suoi clienti e 40 milligrammi all’altra metà per determinare l'effetto sulle condizioni depressive. Che tipo di studio ha condotto lo psichiatra?",
+        "risposta_corretta": "Ricerca sperimentale.",
+        "altre_risposte": [
+            "Ricerca correlazionale.",
+            "Ricerca controllata.",
+            "Ricerca ipotetica."
+        ]
+    },
+    {
+        "domanda": "______, strumento altamente strutturato in grado di quantificare gli atteggiamenti, le opinioni e i pensieri delle persone su un dato argomento.",
+        "risposta_corretta": "Questionario.",
+        "altre_risposte": [
+            "Intervista.",
+            "Osservazione.",
+            "Intervista strutturata."
+        ]
+    },
+    {
+        "domanda": "La ricerca condotta in un setting naturale di vita reale, fuori dal laboratorio si chiama:",
+        "risposta_corretta": "ricerca sul campo.",
+        "altre_risposte": [
+            "ricerca sperimentale.",
+            "ricerca correlazionale.",
+            "ricerca di laboratorio."
+        ]
+    },
+    {
+        "domanda": "Lo studio delle relazioni che si verificano naturalmente tra le variabili è riferito a:",
+        "risposta_corretta": "ricerca correlazionale.",
+        "altre_risposte": [
+            "ricerca sperimentale.",
+            "ricerca di laboratorio.",
+            "ricerca sul campo."
+        ]
+    },
+    {
+        "domanda": "Stare nel cortile dell’università per registrare, con una telecamera, le osservazioni sull’uso del cellulare degli studenti universitari è un esempio di quale tipo di ricerca?",
+        "risposta_corretta": "Ricerca sul campo.",
+        "altre_risposte": [
+            "Ricerca di laboratorio.",
+            "Ricerca correlazionale.",
+            "Ricerca sperimentale."
+        ]
+    },
+    {
+        "domanda": "Le teorie aiutano gli psicologi sociali a ____ le loro osservazioni e a ____ le loro ipotesi.",
+        "risposta_corretta": "organizzare; verificare",
+        "altre_risposte": [
+            "verificare; organizzare",
+            "rifiutare; oggettivare",
+            "oggettivare; rifiutare"
+        ]
+    }
+]
+
+
+
+
+
+
+
+
+
+
