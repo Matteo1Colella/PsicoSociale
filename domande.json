@@ -642,8 +642,63 @@
             "rifiutare; oggettivare",
             "oggettivare; rifiutare"
         ]
+    },
+    {
+        "domanda": "Il concetto di complessità del Sé fa riferimento a:",
+        "risposta_corretta": "il numero e la diversità degli aspetti del sé che le persone sviluppano in relazione ai ruoli assunti, alle diverse attività svolte e ai diversi rapporti sviluppati.",
+        "altre_risposte": [
+            "il numero e la diversità degli aspetti dell’identità sociale che le persone sviluppano nei gruppi secondari.",
+            "il numero e la diversità degli aspetti del sé che le persone sviluppano nei gruppi primari.",
+            "il numero e la diversità degli aspetti del sé che le persone sviluppano in situazione di difficoltà."
+        ]
+    },
+    {
+        "domanda": "Luca è molto preoccupato per l’esame che avrà domani. Ciononostante ha programmato di uscire con gli amici per un addio al celibato e di tornare a casa non prima delle quattro di mattina. Questo è un esempio di:",
+        "risposta_corretta": "autosabotaggio.",
+        "altre_risposte": [
+            "falsa modestia.",
+            "autopresentazione.",
+            "self-serving bias."
+        ]
+    },
+    {
+        "domanda": "L'impotenza e la rassegnazione apprese quando una persona non percepisce alcun controllo su eventi negativi ripetuti è detta:",
+        "risposta_corretta": "impotenza appresa.",
+        "altre_risposte": [
+            "acquiescienza.",
+            "rassegnazione appresa.",
+            "mancanza di controllo."
+        ]
+    },
+    {
+        "domanda": "I ricercatori sottolineano una correlazione ____ tra la persistenza e l’autoefficacia.",
+        "risposta_corretta": "positiva",
+        "altre_risposte": [
+            "negativa",
+            "moderata",
+            "uguale a zero"
+        ]
+    },
+    {
+        "domanda": "Pensare che tutti ti ritengano un idiota perchè ti sei presentato ad una cena senza un regalo per i padroni di casa può essere considerato un esempio di effetto ____.",
+        "risposta_corretta": "spotlight",
+        "altre_risposte": [
+            "trasparenza",
+            "headlight",
+            "audience"
+        ]
+    },
+    {
+        "domanda": "Giovanni è nervoso per la partita di tennis. Nonostante ciò è ancora in giro al posto che riposare bene la notte prima della partita. Questo potrebbe essere un esempio di:",
+        "risposta_corretta": "autosabotaggio (self-handicapping).",
+        "altre_risposte": [
+            "autopresentazione (self-presentation).",
+            "gestione dell’impressione.",
+            "self-serving bias."
+        ]
     }
 ]
+
 
 
 
