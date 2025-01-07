@@ -1128,7 +1128,1303 @@
             "l’autoefficacia.",
             "un locus of control esterno."
         ]
-    }
+    },
+    {
+    "domanda": "La percezione di una relazione in realtà inesistente, o la percezione di una relazione più forte di quella reale è chiamata:",
+    "risposta_corretta": "correlazione illusoria.",
+    "altre_risposte": [
+        "euristica della rappresentatività.",
+        "euristica della disponibilità.",
+        "fenomeno dell’eccessiva fiducia in sé."
+    ]
+},
+{
+    "domanda": "Sara guarda solitamente il telegiornale sui canali televisivi che supportano le sue opinioni politiche ed è meno incline a guardare il telegiornale su canali che possono confutare tali idee. Il comportamento di Sara è spiegato da",
+    "risposta_corretta": "il bias di conferma.",
+    "altre_risposte": [
+        "il fenomeno 'io-lo-so-da-sempre'.",
+        "l'effetto informazione fuorviante.",
+        "l'errore di conferma."
+    ]
+},
+{
+    "domanda": "Durante un day hospital, lei vede un uomo e una donna (entrambi in divisa) che stanno parlando. Suppone che l'uomo sia un medico e la donna un'infermiera. Più tardi, scopre che è vero il contrario. Che tipo di euristica ha usato durante la sua supposizione iniziale?",
+    "risposta_corretta": "L'euristica della rappresentatività.",
+    "altre_risposte": [
+        "L'euristica della disponibilità.",
+        "L'euristica della simulazione.",
+        "L'euristica dell'ancoraggio."
+    ]
+},
+{
+    "domanda": "Uno stato di coscienza in cui l'attenzione si focalizza su di Sé viene definito come:",
+    "risposta_corretta": "autoconsapevolezza.",
+    "altre_risposte": [
+        "fiducia in sè.",
+        "padronanza di sé.",
+        "fiducia negli altri."
+    ]
+},
+{
+    "domanda": "Tendiamo a sottostimare le determinanti situazionali del comportamento degli altri, ma non le nostre, perché noi osserviamo gli altri da una prospettiva diversa da quella usata per osservare noi stessi. Questo fenomeno si chiama:",
+    "risposta_corretta": "differenza attore-osservatore.",
+    "altre_risposte": [
+        "prospettiva che cambia con il tempo.",
+        "distorsione della prospettiva della videocamera.",
+        "autoconsapevolezza."
+    ]
+},
+{
+    "domanda": "Il primo giorno di lezione, vediamo di fronte a noi un uomo di mezza età che sta parlando con un ragazzo giovane. Se noi supponiamo che l'uomo più anziano sia il professore e quello più giovane uno studente, quale euristica stiamo usando?",
+    "risposta_corretta": "Della rappresentatività.",
+    "altre_risposte": [
+        "Dell'ancoraggio.",
+        "Della simulazione.",
+        "Della disponibilità."
+    ]
+},
+    {
+    "domanda": "Un vostro compagno arriva sempre tardi alle lezioni. Voi ritenete che il suo comportamento sia attribuibile al fatto che egli è pigro e disorganizzato. Che tipo di attribuzione avete formulato?",
+    "risposta_corretta": "Disposizionale.",
+    "altre_risposte": [
+        "Situazionale.",
+        "Illusoria.",
+        "Motivazionale."
+    ]
+},
+{
+    "domanda": "Dopo aver letto un articolo sugli adolescenti che scaricano illegalmente musica da Internet, concludi che coloro che si comportano in questo modo sono moralmente colpevoli. Non ti è mai venuto in mente, però, che la ragione per cui gli adolescenti scaricano musica da Internet è perché essi non possono permettersi di acquistare il cd o che la tentazione di scaricare, unita alla pressione dei pari a farlo, è spesso molto forte. Il tuo pensiero su questo problema può essere caratterizzato:",
+    "risposta_corretta": "dall'errore fondamentale di attribuzione.",
+    "altre_risposte": [
+        "dal bias disposizionale.",
+        "dal bias del falso consenso.",
+        "dall'effetto informazione fuorviante."
+    ]
+},
+{
+    "domanda": "Il tuo migliore amico è un giocatore esperto di scacchi e ha vinto numerosi premi. Quando giochi a scacchi con lui, noti che sembra essere consapevole degli schemi da usare, quasi immediatamente dopo le tue mosse. Che tipo di pensiero riflette la sua consapevolezza di queste strategie?",
+    "risposta_corretta": "Elaborazione automatica.",
+    "altre_risposte": [
+        "Elaborazione controllata.",
+        "Elaborazione intenzionale.",
+        "Elaborazione interna."
+    ]
+},
+{
+    "domanda": "La ricerca sul gioco d’azzardo mostra che tirare il dado, o girare la ruota, aumenta la sicurezza delle persone. Ciò descrive:",
+    "risposta_corretta": "l’illusione del controllo.",
+    "altre_risposte": [
+        "l’euristica della disponibilità.",
+        "l’euristica rappresentativa.",
+        "la correlazione illusoria."
+    ]
+},
+{
+    "domanda": "Il capo di Luca è spesso irritabile. Luca pensa che sia perchè il suo capo è una persona infelice. Che tipo di attribuzione sta facendo Luca per spiegare il comportamento del capo?",
+    "risposta_corretta": "Disposizionale.",
+    "altre_risposte": [
+        "Illusoria.",
+        "Situazionale.",
+        "Motivazionale."
+    ]
+},
+{
+    "domanda": "Dichiarazioni del tipo 'Ogni volta che incontro Marco perdo le chiavi' sono esempi di:",
+    "risposta_corretta": "correlazione illusoria.",
+    "altre_risposte": [
+        "statistica inferenziale.",
+        "correlazione positiva.",
+        "bias di conferma."
+    ]
+},
+{
+    "domanda": "L'attivazione di particolari associazioni nella memoria è denominato effetto:",
+    "risposta_corretta": "priming.",
+    "altre_risposte": [
+        "self-handicapping.",
+        "persistenza della memoria.",
+        "galvanizzazione."
+    ]
+},
+    {
+    "domanda": "La tendenza a ritenere che qualcuno appartenga a uno specifico gruppo se assomiglia a un membro tipico di quel gruppo è definita euristica",
+    "risposta_corretta": "della rappresentatività.",
+    "altre_risposte": [
+        "della simulazione.",
+        "della disponibilità.",
+        "dell'ancoraggio."
+    ]
+},
+{
+    "domanda": "Alice ha appena visto alla tv un reportage sui disastri aerei. Ora Alice è convinta che sia più facile avere un incidente aereo che un incidente automobilistico. Questo è un esempio di:",
+    "risposta_corretta": "euristica della disponibilità.",
+    "altre_risposte": [
+        "effetto dell’algoritmo.",
+        "euristica della rappresentatività.",
+        "pensiero contro fattuale."
+    ]
+},
+{
+    "domanda": "Una credenza che conduce al proprio compimento si chiama:",
+    "risposta_corretta": "profezia che si autoavvera.",
+    "altre_risposte": [
+        "validità che si autoconferma.",
+        "conferma della credenza.",
+        "persistenza comportamentale."
+    ]
+},
+{
+    "domanda": "Dopo l'11 Settembre 2001, molte persone hanno abbandonato i voli aerei per utilizzare le strade, a causa:",
+    "risposta_corretta": "dell'euristica della disponibilità.",
+    "altre_risposte": [
+        "del bias di conferma.",
+        "dell'euristica della rappresentatività.",
+        "dell'errore di pianificazione."
+    ]
+},
+{
+    "domanda": "La ricerca sull’ 'infusione dell’umore' ha scoperto che i giudizi delle persone sul loro comportamento videoregistrato sono più positivi se, mentre guardano il video, sono:",
+    "risposta_corretta": "di buon umore.",
+    "altre_risposte": [
+        "con un estraneo.",
+        "distratti.",
+        "depressi e ansiosi."
+    ]
+},
+{
+    "domanda": "Maria ha problemi con il suo computer. Le viene chiesto se ha problemi anche con gli altri computer dell'università o solo con il suo. La risposta a questa domanda con cosa ha a che fare?",
+    "risposta_corretta": "La distintività.",
+    "altre_risposte": [
+        "La coerenza.",
+        "Il carattere.",
+        "Il consenso."
+    ]
+},
+{
+    "domanda": "Nelle culture occidentali, le persone sono più inclini a ritenere che i comportamenti degli altri:",
+    "risposta_corretta": "riflettono i loro tratti interni.",
+    "altre_risposte": [
+        "sono causati dalla situazione.",
+        "non riflettono i tratti interni.",
+        "non causano gli eventi."
+    ]
+},
+{
+    "domanda": "Quale delle seguenti è una strategia di pensiero che permette giudizi veloci ed efficienti?",
+    "risposta_corretta": "Un'euristica.",
+    "altre_risposte": [
+        "Un atteggiamento esplicito.",
+        "Un atteggiamento implicito.",
+        "Un Bias di conferma."
+    ]
+},
+    {
+    "domanda": "Filippo ha la tendenza a credere che Enrico sia un buon amico anche se più volte ha avuto prova del contrario. Questa tendenza è nota come:",
+    "risposta_corretta": "persistenza della credenza.",
+    "altre_risposte": [
+        "effetto dell'informazione fuorviante.",
+        "effetto della continuità.",
+        "ricostruzione erronea del passato."
+    ]
+},
+{
+    "domanda": "Maria pensava che oggi avrebbe avuto abbastanza tempo per scrivere la tesi dopo aver fatto la spesa e pulito la casa, ma il tempo è passato troppo velocemente. Questo è un esempio di:",
+    "risposta_corretta": "errore di pianificazione.",
+    "altre_risposte": [
+        "persistenza della credenza.",
+        "bias di conferma.",
+        "euristica."
+    ]
+},
+{
+    "domanda": "Le ricerche mostrano che le persone felici:",
+    "risposta_corretta": "sono più fiduciose, più affettuose e più reattive.",
+    "altre_risposte": [
+        "sono più propensi a mostrare aspettative negative.",
+        "sono più suscettibili alle correlazioni illusorie.",
+        "pensano più razionalmente."
+    ]
+},
+{
+    "domanda": "Quando le aspettative sociali delle persone le inducono a comportarsi in modo da far sì che gli altri confermino le loro aspettative, è al lavoro:",
+    "risposta_corretta": "la profezia che si autoavvera.",
+    "altre_risposte": [
+        "la correlazione illusoria.",
+        "il pensiero controfattuale.",
+        "l’illusione del controllo."
+    ]
+},
+{
+    "domanda": "Ritenere che la maggior parte dei crimini implicano la violenza solo perché i servizi giornalistici riguardano generalmente stupri, furti e percosse è un esempio di quale euristica?",
+    "risposta_corretta": "Della disponibilità.",
+    "altre_risposte": [
+        "Della rappresentatività.",
+        "Dell'abbinamento.",
+        "Della vivacità."
+    ]
+},
+{
+    "domanda": "La tendenza degli osservatori a sottostimare nel comportamento degli altri le influenze situazionali e sovrastimare quelle disposizionali si chiama:",
+    "risposta_corretta": "errore fondamentale di attribuzione.",
+    "altre_risposte": [
+        "effetto informazione fuorviante.",
+        "bias del falso consenso.",
+        "bias disposizionale."
+    ]
+},
+{
+    "domanda": "La teoria dell'inferenza corrispondente sostiene che:",
+    "risposta_corretta": "le persone tendono ad inferire dalle azioni di una persona dei tratti di personalità.",
+    "altre_risposte": [
+        "le azioni delle persone dipendono dalle disposizioni.",
+        "locus of control interno dipende dai tratti di personalità.",
+        "un particolare effetto corrisponde ad una specifica causa."
+    ]
+},
+    {
+    "domanda": "Qualche volta il fondamento della propria credenza è confutato, ma sopravvive una spiegazione del perché la credenza può essere vera. Come definiscono questo fenomeno gli psicologi sociali?",
+    "risposta_corretta": "Persistenza della credenza.",
+    "altre_risposte": [
+        "Razionalizzazione.",
+        "Coerenza dell'atteggiamento.",
+        "Approvazione della credenza."
+    ]
+},
+{
+    "domanda": "Laura arriva costantemente in ritardo alla lezione di psicologia perché la lezione di biologia, che ha immediatamente prima, si tiene in un edificio situato dall'altro lato dell'università. Laura è preoccupata che il professore pensi che non sia una studentessa seria a causa del suo ritardo cronico, così decide di comunicare al professore il motivo del ritardo. Che tipo di attribuzione farà il professore rispetto al suo comportamento?",
+    "risposta_corretta": "Situazionale.",
+    "altre_risposte": [
+        "Disposizionale.",
+        "Motivazionale.",
+        "Interna."
+    ]
+},
+{
+    "domanda": "'Ogni volta che lavo la macchina poi piove'. Questa dichiarazione è un esempio di:",
+    "risposta_corretta": "correlazione illusoria.",
+    "altre_risposte": [
+        "statistica inferenziale.",
+        "correlazione positiva.",
+        "bias di conferma."
+    ]
+},
+{
+    "domanda": "In un esperimento ormai famoso, Rosenthal e Jacobson (1968) riportarono che i bambini della scuola elementare selezionati casualmente balzarono in avanti nel punteggio del QI come risultato:",
+    "risposta_corretta": "delle elevate aspettative dei loro insegnanti.",
+    "altre_risposte": [
+        "delle strategie educative volte ad accrescere la loro autostima.",
+        "dell’accresciuto coinvolgimento e supporto genitoriale.",
+        "dell’intensa preparazione scolastica."
+    ]
+},
+{
+    "domanda": "Il pensiero controfattuale viene impiegato quando:",
+    "risposta_corretta": "possiamo facilmente prefigurarci un esito alternativo.",
+    "altre_risposte": [
+        "siamo sorpresi da risultati favorevoli.",
+        "non ci aspettiamo un esito favorevole.",
+        "l’evento é significativo."
+    ]
+},
+{
+    "domanda": "Un pensiero implicito, senza sforzo, abituale e non consapevole si chiama:",
+    "risposta_corretta": "elaborazione automatica.",
+    "altre_risposte": [
+        "elaborazione controllata.",
+        "elaborazione intenzionale.",
+        "elaborazione interna."
+    ]
+},
+{
+    "domanda": "Quale delle seguenti strategie potrebbe essere utile per ridurre il bias dell'eccessiva fiducia in sé?",
+    "risposta_corretta": "Chiedere alle persone di pensare perché i loro giudizi potrebbero essere sbagliati.",
+    "altre_risposte": [
+        "Dire alle persone che non c'è rimedio al bias dell'eccessiva fiducia in sé.",
+        "Informare le persone circa il bias dell'eccessiva fiducia in sé.",
+        "Inviare un feedback riguardo all'esattezza dei loro giudizi."
+    ]
+},
+    {
+    "domanda": "Maria ha problemi con il suo computer. Le viene chiesto se di solito ha difficoltà a lavorare con il computer. Questa domanda cosa mira ad indagare?",
+    "risposta_corretta": "La coerenza.",
+    "altre_risposte": [
+        "Il consenso.",
+        "Il carattere.",
+        "La distintività."
+    ]
+},
+{
+    "domanda": "Mauro non sembra capace di assumersi la responsabilità delle sue azioni (così trova sempre delle scuse per rientrare a casa dopo il coprifuoco e comportarsi come una vittima degli insegnanti quando prende brutti voti). Affinché si assuma la responsabilità del proprio comportamento, egli ha bisogno di diventare più:",
+    "risposta_corretta": "consapevole di se stesso.",
+    "altre_risposte": [
+        "sicuro.",
+        "consapevole della situazione.",
+        "padrone di se stesso."
+    ]
+},
+{
+    "domanda": "La tendenza ad immaginare scenari e risultati alternativi che sarebbero potuti accadere, ma non sono accaduti si chiama:",
+    "risposta_corretta": "pensiero controfattuale.",
+    "altre_risposte": [
+        "accomodamento.",
+        "bias riflessivo.",
+        "pensiero automatico."
+    ]
+},
+{
+    "domanda": "Secondo la teoria delle attribuzioni di Kelley (1973), quando compiamo delle attribuzioni sul comportamento delle altre persone quali tre tipi di informazioni usiamo?",
+    "risposta_corretta": "Coerenza, distintività e consenso.",
+    "altre_risposte": [
+        "Coerenza, distintività e carattere.",
+        "Conformità, distintività e carattere.",
+        "Conformità, distintività e consenso."
+    ]
+},
+{
+    "domanda": "Giovanna ha trascorso la sera a casa di amici guardando il film 'Il serial-killer'. Alle 2 di notte si sveglia di colpo a causa di un rumore improvviso contro la sua finestra. Anzichè ipotizzare che siano i rami degli alberi che sbattono contro le persiane, Giovanna pensa sia un serial-killer che vuole entrare in casa sua. Questo è un esempio di:",
+    "risposta_corretta": "priming.",
+    "altre_risposte": [
+        "correlazione illusoria.",
+        "processo automatico.",
+        "attribuzione."
+    ]
+},
+{
+    "domanda": "Dopo aver rotto con il suo fidanzato, immagina che ora sarebbe ancora con lui se solo lui l'avesse trattata più premurosamente. Questo è un esempio di:",
+    "risposta_corretta": "pensiero controfattuale.",
+    "altre_risposte": [
+        "pensiero esplicito.",
+        "errore fondamentale di attribuzione.",
+        "pensiero implicito."
+    ]
+},
+{
+    "domanda": "La teoria che spiega il comportamento delle persone attribuendolo a disposizioni interne o a situazioni esterne si chiama:",
+    "risposta_corretta": "teoria dell'attribuzione.",
+    "altre_risposte": [
+        "teoria motivazionale.",
+        "teoria disposizionale.",
+        "teoria situazionale."
+    ]
+},
+    {
+    "domanda": "Ogni volta che vedo Luca inciampo e cado. Questa dichiarazione è un esempio di:",
+    "risposta_corretta": "correlazione illusoria.",
+    "altre_risposte": [
+        "statistica inferenziale.",
+        "correlazione positiva.",
+        "bias di conferma."
+    ]
+},
+  {
+    "domanda": "Isabella ha appena commesso un errore nel pronunciare una parola. Si sente sciocca ed è preoccupata che gli altri possano pensare che non è intelligente. La teoria ____ prevede che probabilmente Isabella continuerà a parlare del suo talento artistico dicendo a tutti quanti quadri ha venduto questa settimana.",
+    "risposta_corretta": "dell’autoaffermazione.",
+    "altre_risposte": [
+        "della dissonanza cognitiva.",
+        "dell’autopresentazione.",
+        "dell’autopercezione."
+    ]
+},
+{
+    "domanda": "Chi ha elaborato la teoria della dissonanza cognitiva?",
+    "risposta_corretta": "Leon Festinger.",
+    "altre_risposte": [
+        "James Laird.",
+        "Daryl Bem.",
+        "William James."
+    ]
+},
+{
+    "domanda": "L’atteggiamento delle persone verso la chiesa è un predittore ____ della loro frequenza domenicale alle funzioni religiose.",
+    "risposta_corretta": "forte.",
+    "altre_risposte": [
+        "medio.",
+        "debole.",
+        "inconsistente."
+    ]
+},
+{
+    "domanda": "La prima definizione degli atteggiamenti è stata formulata da:",
+    "risposta_corretta": "Allport.",
+    "altre_risposte": [
+        "Thomas e Znaniecki.",
+        "Moscovici.",
+        "Abelson."
+    ]
+},
+{
+    "domanda": "Quando gli incitamenti esterni sono insufficienti a giustificare il nostro comportamento, riduciamo la dissonanza giustificando il comportamento internamente. Quale delle seguenti teorie spiega questo effetto della giustificazione insufficiente?",
+    "risposta_corretta": "La teoria della dissonanza cognitiva.",
+    "altre_risposte": [
+        "La teoria dell’autopresentazione.",
+        "La teoria dell’autopercezione.",
+        "La teoria del role playing."
+    ]
+},
+{
+    "domanda": "La tensione che nasce quando si è simultaneamente consapevoli di due informazioni incoerenti è chiamata:",
+    "risposta_corretta": "dissonanza cognitiva.",
+    "altre_risposte": [
+        "incoerenza cognitiva.",
+        "tensione cognitiva.",
+        "interferenza cognitiva."
+    ]
+},
+  {
+    "domanda": "Se stai studiando perchè vuoi fare bene il corso e comprendere bene i libri che devi portare all’esame sarai più propenso a voler studiare in futuro, rispetto a quegli studenti che vedono nello studio un obbligo. La tua situazione è un esempio del fatto che:",
+    "risposta_corretta": "gli atteggiamenti seguono i comportamenti per le cose di cui si avverte una responsabilità.",
+    "altre_risposte": [
+        "i comportamenti seguono gli atteggiamenti.",
+        "i comportamenti seguono gli atteggiamenti per le cose di cui si avverte una responsabilità.",
+        "gli atteggiamenti seguono i comportamenti."
+    ]
+},
+{
+    "domanda": "Il Test di associazione implicita (IAT) consente di misurare:",
+    "risposta_corretta": "atteggiamenti inconsapevoli.",
+    "altre_risposte": [
+        "atteggiamenti consapevoli e inconsapevoli.",
+        "comportamenti.",
+        "atteggiamenti consapevoli."
+    ]
+},
+{
+    "domanda": "La teoria della dissonanza spiega ____ dell’atteggiamento, mentre la teoria dell’autopercezione spiega ____ dell’atteggiamento.",
+    "risposta_corretta": "il cambiamento; la formazione",
+    "altre_risposte": [
+        "la congruenza; il cambiamento",
+        "la formazione; il cambiamento",
+        "il cambiamento; la congruenza"
+    ]
+},
+{
+    "domanda": "Secondo Holland e colleghi (2002) la relazione tra l’avere un’alta autostima e la frequenza con cui una persona impiega l'autogiustificazione è:",
+    "risposta_corretta": "positiva.",
+    "altre_risposte": [
+        "negativa.",
+        "neutra.",
+        "uguale a zero."
+    ]
+},
+{
+    "domanda": "Quale teoria spiega la conclusione che dobbiamo essere irritabili perché ci siamo svegliati all’alba e non siamo più riusciti a riaddormentarci?",
+    "risposta_corretta": "La teoria dell’autopercezione.",
+    "altre_risposte": [
+        "La teoria dell’autopresentazione.",
+        "La teoria della dissonanza cognitiva.",
+        "La teoria dell’autocoerenza."
+    ]
+},
+{
+    "domanda": "Guéguen e Jacob (2001), in Francia, hanno scoperto che, avere precedentemente invitato le persone a firmare una petizione contro le mine antiuomo, aumentava la probabilità che gli utenti di Internet fossero disposti ad aiutare le organizzazioni per le vittime delle mine. Questo è un esempio di tecnica:",
+    "risposta_corretta": "del piede nella porta.",
+    "altre_risposte": [
+        "del tiro mancino.",
+        "dell’accondiscendenza.",
+        "della conformità."
+    ]
+},
+{
+    "domanda": "Le condizioni di dissonanza aumentano la tensione, soprattutto quando minacciano ____.",
+    "risposta_corretta": "il valore personale",
+    "altre_risposte": [
+        "il disagio fisico",
+        "gli atteggiamenti non ancora ben formati",
+        "l’identità di genere."
+    ]
+},
+    {
+    "domanda": "Nell’ABC degli atteggiamenti, A sta per:",
+    "risposta_corretta": "affetto.",
+    "altre_risposte": [
+        "attrazione.",
+        "atteggiamento.",
+        "attribuzione."
+    ]
+},
+{
+    "domanda": "Carlo ha perso il suo iniziale interesse nel fare gli esercizi di matematica dopo che la sua insegnante ha promesso di dargli 1 euro per ogni problema risolto correttamente. Quale teoria meglio spiega la perdita di interesse di Carlo nei confronti della matematica?",
+    "risposta_corretta": "La teoria dell’autopercezione.",
+    "altre_risposte": [
+        "La teoria dell’automonitoraggio.",
+        "La teoria della dissonanza cognitiva.",
+        "La teoria dell’autopresentazione."
+    ]
+},
+{
+    "domanda": "Sei interessato all’acquisto di una macchina fotografica digitale e ne trovi una ad un costo estremamente basso. Dopo averla acquistata, scopri che è sprovvista di batteria, caricabatteria e memory card. Acquisti tutte queste cose separatamente. Il costo totale è superiore a quello che avresti speso in un altro negozio che vendeva una macchina fotografica con tutti gli accessori inclusi. Sei stato vittima della tecnica:",
+    "risposta_corretta": "del tiro mancino.",
+    "altre_risposte": [
+        "dell’accondiscendenza.",
+        "del piede nella porta.",
+        "della conformità."
+    ]
+},
+{
+    "domanda": "Un politico che pubblicamente si dichiara a favore dell’aumento delle tasse ma in privato è contrario, probabilmente sperimenta:",
+    "risposta_corretta": "la dissonanza cognitiva.",
+    "altre_risposte": [
+        "l’immunizzazione all’atteggiamento.",
+        "l’incongruità dell’atteggiamento.",
+        "la teoria della discrepanza atteggiamento-comportamento."
+    ]
+},
+{
+    "domanda": "Quale delle seguenti teorie sostiene che le nostre azioni sono autorivelanti?",
+    "risposta_corretta": "Teoria dell’autopercezione.",
+    "altre_risposte": [
+        "Teoria dell’autocoerenza.",
+        "Teoria dell’autopresentazione.",
+        "Teoria della dissonanza cognitiva."
+    ]
+},
+{
+    "domanda": "Dopo aver preso decisioni importanti, in genere si riduce la dissonanza ____ le alternative scelte e ____ le opzioni tralasciate.",
+    "risposta_corretta": "promuovendo; svalutando",
+    "altre_risposte": [
+        "focalizzando; ignorando",
+        "svalutando; promuovendo",
+        "ignorando; focalizzando"
+    ]
+},
+{
+    "domanda": "L’atteggiamento include tutti i seguenti aspetti tranne uno. Quale dei seguenti?",
+    "risposta_corretta": "attitudine.",
+    "altre_risposte": [
+        "affetto.",
+        "comportamento.",
+        "cognizione."
+    ]
+},
+    {
+    "domanda": "La tecnica del 'bogus pipeline' (falso collegamento) è un mezzo attraverso cui gli psicologi sociali misurano:",
+    "risposta_corretta": "gli atteggiamenti.",
+    "altre_risposte": [
+        "i comportamenti.",
+        "l’inganno.",
+        "le cognizioni."
+    ]
+},
+{
+    "domanda": "Secondo l’effetto della giustificazione eccessiva, le ricompense e gli elogi che informano le persone dei loro risultati ____ la motivazione intrinseca, mentre le ricompense che cercano di controllare gli individui ____ la motivazione intrinseca.",
+    "risposta_corretta": "aumentano; diminuiscono",
+    "altre_risposte": [
+        "diminuiscono; aumentano",
+        "rimuovono; infondono",
+        "infondono; rimuovono"
+    ]
+},
+{
+    "domanda": "Nel 1964, Leon Festinger concluse che, in base ai risultati delle sue ricerche:",
+    "risposta_corretta": "non è dimostrato che gli atteggiamenti guidano i comportamenti.",
+    "altre_risposte": [
+        "la relazione atteggiamento-comportamento è irrilevante.",
+        "gli atteggiamenti e i comportamenti variano insieme.",
+        "è dimostrato che gli atteggiamenti guidano i comportamenti."
+    ]
+},
+{
+    "domanda": "Il fatto che nessuno vuole sembrare sciocco è in accordo con la teoria ____.",
+    "risposta_corretta": "dell’autopresentazione",
+    "altre_risposte": [
+        "dell’autogiustificazione",
+        "dell’orientamento sociale",
+        "dell’autopercezione"
+    ]
+},
+{
+    "domanda": "Le rappresentazioni sociali si basano su due processi:",
+    "risposta_corretta": "ancoraggio e oggettivazione.",
+    "altre_risposte": [
+        "persuasione e oggettivazione.",
+        "ancoraggio e autopercezione.",
+        "auto-presentazione e auto-consapevolezza."
+    ]
+},
+{
+    "domanda": "La teoria dell’autoaffermazione prevede che quando Marco, a causa della sua mancanza di abilità, è oggetto di scherno sul campo di basket, è più probabile che:",
+    "risposta_corretta": "inizierà a parlare del 30 e lode che ha preso ieri all’esame.",
+    "altre_risposte": [
+        "parlerà di come neanche nel basket riesce bene.",
+        "continuerà a giocare nel tentativo di avere successo.",
+        "smetterà di giocare a basket."
+    ]
+},
+{
+    "domanda": "La gestione dell’impressione è chiamata ____ così come la dissonanza cognitiva si chiama anche ____.",
+    "risposta_corretta": "autopresentazione; autogiustificazione",
+    "altre_risposte": [
+        "sovragiustificazione; giustificazione insufficiente",
+        "automonitoraggio; autopresentazione",
+        "teoria Di Bem; teoria di Festinger"
+    ]
+},
+    {
+    "domanda": "La principale differenza tra la teoria della dissonanza cognitiva e la teoria dell’autopercezione é che la prima si basa sull’effetto motivante ____ mentre la seconda no.",
+    "risposta_corretta": "della tensione",
+    "altre_risposte": [
+        "del comportamento",
+        "dell’autoconsapevolezza",
+        "dell’impressione"
+    ]
+},
+{
+    "domanda": "Sebbene tua madre ti tormentasse quando eri un bambino chiedendoti di pulire la tua stanza, dopo che l’avevi pulita e riordinata ti lodava sempre. I suoi commenti positivi probabilmente ____ la tua motivazione intrinseca a mantenere la tua stanza pulita e ordinata.",
+    "risposta_corretta": "aumentavano",
+    "altre_risposte": [
+        "provocavano",
+        "diminuivano",
+        "eliminavano"
+    ]
+},
+{
+    "domanda": "Il contagio emotivo spiega perché è deprimente essere circondati da gente:",
+    "risposta_corretta": "triste.",
+    "altre_risposte": [
+        "felice.",
+        "sicura.",
+        "intelligente."
+    ]
+},
+{
+    "domanda": "È ____ che le persone si attengano ad una richiesta impegantiva se prima hanno ottemperato ad una richiesta poco impegnativa.",
+    "risposta_corretta": "più probabile",
+    "altre_risposte": [
+        "meno probabile",
+        "non influente",
+        "non probabile"
+    ]
+},
+{
+    "domanda": "Quali sono, secondo la teoria dell’azione ragionata, le determinanti dell’intenzione comportamentale?",
+    "risposta_corretta": "Atteggiamento verso il comportamento, norme soggettive.",
+    "altre_risposte": [
+        "Intenzioni e atteggiamenti.",
+        "Conoscenza rilevante.",
+        "Percezione di controllo e intenzione."
+    ]
+},
+{
+    "domanda": "Vanessa sembra sempre espansiva e sicura. Ti piace passare del tempo con lei perché fa sentire anche te più espansivo e sicuro. Quale teoria meglio spiega il tuo comportamento?",
+    "risposta_corretta": "La teoria del contagio emotivo.",
+    "altre_risposte": [
+        "La teoria dell’autopercezione.",
+        "La teoria dell’autopresentazione.",
+        "La teoria della dissonanza cognitiva."
+    ]
+},
+{
+    "domanda": "La tecnica utilizzata per assicurare l’adesione a una richiesta impegnativa chiedendo dapprima alle persone di accondiscendere a una richiesta meno impegnativa si chiama:",
+    "risposta_corretta": "tecnica del piede nella porta.",
+    "altre_risposte": [
+        "tecnica della conformità.",
+        "tecnica del tiro mancino.",
+        "tecnica dell’accondiscendenza."
+    ]
+},
+    {
+    "domanda": "Quando i nostri atteggiamenti sono deboli o ambigui noi usiamo il nostro comportamento, e le circostanze in cui avviene, come indizi di questi atteggiamenti. A quale teoria si fa riferimento?",
+    "risposta_corretta": "La teoria dell’autopercezione.",
+    "altre_risposte": [
+        "La teoria dell’autoaffermazione.",
+        "La teoria dell’autopresentazione.",
+        "La teoria della dissonanza cognitiva."
+    ]
+},
+{
+    "domanda": "Spesso le persone si sentono a disagio per la loro falsità, se indotte a fornire un sostegno scritto o orale su qualcosa di cui dubitano. Nonostante ciò per provare di non essere corrotte o costrette a farlo, le persone:",
+    "risposta_corretta": "cominciano a credere a ciò che dicono.",
+    "altre_risposte": [
+        "si scusano per la loro falsità.",
+        "si vergognano della loro falsità.",
+        "negano di aver detto ciò che hanno detto."
+    ]
+},
+{
+    "domanda": "Un politico che pubblicamente si dichiara a favore della pena di morte ma in privato è contrario, probabilmente sperimenta:",
+    "risposta_corretta": "la dissonanza cognitiva.",
+    "altre_risposte": [
+        "l’incongruità dell’atteggiamento.",
+        "la teoria della discrepanza atteggiamento-comportamento.",
+        "l’immunizzazione all’atteggiamento."
+    ]
+},
+{
+    "domanda": "Una volta che abbiamo preso una decisione o fatto una scelta:",
+    "risposta_corretta": "forniamo ragioni aggiuntive a sostengo di quella scelta o decisione.",
+    "altre_risposte": [
+        "diventiamo meno sicuri della nostra decisione o scelta.",
+        "iniziamo a dubitare delle ragioni per cui abbiamo preso quella decisione o scelta.",
+        "l’opzione che abbiamo scelto diventa più attraente."
+    ]
+},
+{
+    "domanda": "Quando era un adolescente i suoi genitori la obbligavano sempre a pulire la sua stanza. Adesso che vive da solo, non sente lo stimolo a pulire, dal momento che non ci sono più i genitori che la tormentano. Questo è un esempio di come:",
+    "risposta_corretta": "gli atteggiamenti seguono i comportamenti.",
+    "altre_risposte": [
+        "i comportamenti seguono gli atteggiamenti per le cose di cui si avverte una responsabilità.",
+        "i comportamenti seguono gli atteggiamenti.",
+        "gli atteggiamenti seguono i comportamenti per le cose di cui si avverte una responsabilità."
+    ]
+},
+{
+    "domanda": "Le ricerche mostrano che, quando il bere alcool riduce la tensione prodotta dalla dissonanza, l’effetto degli atteggiamenti che seguono il comportamento:",
+    "risposta_corretta": "scompare.",
+    "altre_risposte": [
+        "aumenta significativamente.",
+        "non viene influenzato.",
+        "aumenta leggermente."
+    ]
+},
+{
+    "domanda": "Una variazione della tecnica del piede nella porta è usata dai venditori di macchine. Le persone che intendono esercitare un’influenza, prima si assicurano l’adesione a una richiesta minore, e poi aumentano il costo sapendo che si tende a tener fede alla parola data o all’impegno assunto. Essa è chiamata tecnica:",
+    "risposta_corretta": "del tiro mancino.",
+    "altre_risposte": [
+        "dell’accondiscendenza.",
+        "del piede nella porta.",
+        "della conformità."
+    ]
+},
+    {
+    "domanda": "Quando le persone sono indotte a fare per soldi qualcosa che già facevano per piacere, iniziano a pensare alle loro azioni come a qualcosa di controllato dall’esterno, piuttosto che a qualcosa di intrinsecamente piacevole. Questo fenomeno è chiamato:",
+    "risposta_corretta": "effetto della giustificazione eccessiva.",
+    "altre_risposte": [
+        "effetto della giustificazione insufficiente.",
+        "effetto del piede nella porta.",
+        "effetto dell’autogiustificazione."
+    ]
+},
+{
+    "domanda": "Quale teoria sostiene che quando le persone sperimentano una minaccia all’immagine del sé possono compensare affermando un altro aspetto del sé?",
+    "risposta_corretta": "La teoria dell’autoaffermazione.",
+    "altre_risposte": [
+        "La teoria della dissonanza cognitiva.",
+        "La teoria dell’autopercezione.",
+        "La teoria dell’autopresentazione."
+    ]
+},
+{
+    "domanda": "Nell’ABC degli atteggiamenti, C sta per:",
+    "risposta_corretta": "cognizione.",
+    "altre_risposte": [
+        "cura.",
+        "compromesso.",
+        "connotazione."
+    ]
+},
+{
+    "domanda": "Lei riceve più di una proposta di matrimonio e dopo aver deciso con chi desidera condividere la propria vita, la teoria della dissonanza prevede che lei ____ persona di cui ha accettato la proposta.",
+    "risposta_corretta": "sopravvaluterà la",
+    "altre_risposte": [
+        "ignorerà la",
+        "si focalizzerà sulla",
+        "svaluterà la"
+    ]
+},
+{
+    "domanda": "Quale delle seguenti teorie sostiene che per ragioni strategiche assumiamo quegli atteggiamenti che ci fanno apparire coerenti con gli altri?",
+    "risposta_corretta": "Teoria dell’autopresentazione.",
+    "altre_risposte": [
+        "Teoria dell’autocoerenza.",
+        "Teoria della dissonanza cognitiva.",
+        "Teoria dell’autopercezione."
+    ]
+},
+{
+    "domanda": "Quale teoria sostiene che quando siamo incerti in merito ai nostri atteggiamenti li inferiamo osservando i nostri comportamenti?",
+    "risposta_corretta": "Teoria dell’auto-percezione.",
+    "altre_risposte": [
+        "Teoria della dissonanza cognitiva.",
+        "Teoria della coerenza interna.",
+        "Teoria dell’auto-presentazione."
+    ]
+},
+{
+    "domanda": "Una valutazione favorevole o sfavorevole verso qualcosa o qualcuno in psicologia sociale si chiama:",
+    "risposta_corretta": "atteggiamento.",
+    "altre_risposte": [
+        "cognizione.",
+        "sentimento.",
+        "tendenza comportamentale."
+    ]
+},
+    {
+    "domanda": "L’effetto della giustificazione insufficiente implica la riduzione della dissonanza grazie alla giustificazione ____ del proprio comportamento quando quella ____ è insufficiente.",
+    "risposta_corretta": "interna; esterna",
+    "altre_risposte": [
+        "esterna; interna",
+        "cognitive; emotive",
+        "emotive; cognitive"
+    ]
+},
+{
+    "domanda": "Secondo l’effetto della giustificazione eccessiva, promettere ai bambini una ricompensa per fare ciò che piace loro:",
+    "risposta_corretta": "li porta a diminuire il loro piacere nello svolgere quella attività.",
+    "altre_risposte": [
+        "li incoraggia a svolgere da soli quella attività indipendentemente dalle ricompense future.",
+        "li porta ad aumentare il loro piacere nello svolgere quella attività.",
+        "aumenta il tempo e lo sforzo che essi impiegano nello svolgere quella attività."
+    ]
+},
+{
+    "domanda": "Quando eri un adolescente, ti piaceva molto correre. Per questo motivo i tuoi genitori ti compravano un paio nuovo di scarpe da ginnastica dopo ogni gara importante (come per esempio quando hai corso la tua prima maratona). Secondo la teoria dell’autopercezione, il comportamento dei tuoi genitori che effetto aveva sulla tua motivazione intrinseca alla corsa?",
+    "risposta_corretta": "La diminuiva.",
+    "altre_risposte": [
+        "La infondeva.",
+        "La aumentava.",
+        "La rimuoveva."
+    ]
+},
+{
+    "domanda": "Lo studio di Schnall e Laird (2003) ha mostrato che i soggetti indotti ad assumere ripetutamente espressioni di felicità possono rievocare ricordi più felici ed essere di buon umore più a lungo. Questo è meglio spiegato dalla:",
+    "risposta_corretta": "teoria dell’autopercezione.",
+    "altre_risposte": [
+        "teoria dell’autocoerenza.",
+        "teoria dell’autopresentazione.",
+        "teoria della dissonanza cognitiva."
+    ]
+},
+{
+    "domanda": "Il modo migliore per alimentare l’interesse di Marco allo svolgimento di un compito che per lui non è intrinsecamente piacevole consiste nel lodarlo per il suo comportamento. Questo gli suggerisce che:",
+    "risposta_corretta": "ha svolto il compito per una ragione intrinseca.",
+    "altre_risposte": [
+        "ha svolto il compito per una ragione estrinseca.",
+        "ha svolto il compito perché é costretto a farlo.",
+        "Non dovrà più svolgere il compito."
+    ]
+},
+{
+    "domanda": "Quale delle seguenti teorie sostiene che giustifichiamo le nostre azioni con noi stessi per ridurre lo stato di spiacevole tensione che proviamo?",
+    "risposta_corretta": "Teoria della dissonanza cognitiva.",
+    "altre_risposte": [
+        "Teoria dell’autopercezione.",
+        "Teoria dell’autocoerenza.",
+        "Teoria dell’autopresentazione."
+    ]
+},
+{
+    "domanda": "È fortunato e riceve molte offerte di lavoro dopo essersi laureato. La decisione è molto difficile, ma una volta che decide di accettare una delle offerte, tenderà a ____ i lavori offerti che non ha accettato.",
+    "risposta_corretta": "svalutare",
+    "altre_risposte": [
+        "promuovere",
+        "focalizzare",
+        "ignorare"
+    ]
+},
+    {
+    "domanda": "In una variante del suo esperimento classico, Milgram chiese ad un impiegato complice di assumere il comando in assenza dello sperimentatore. Come risultato di questa manipolazione:",
+    "risposta_corretta": "l'80% dei partecipanti si rifiutava di obbedire completamente.",
+    "altre_risposte": [
+        "la maggior parte degli insegnanti aderì agli ordini dell'impiegato.",
+        "gli insegnanti litigarono con lui e fra di loro per il ruolo di leader.",
+        "i partecipanti incominciarono a vedere il loro ruolo con maggiore positività e alcuni ne divennero entusiasti."
+    ]
+},
+{
+    "domanda": "L'agire in risposta a un ordine o a un comando diretto è chiamato:",
+    "risposta_corretta": "obbedienza.",
+    "altre_risposte": [
+        "accondiscendenza.",
+        "conformismo.",
+        "accettazione."
+    ]
+},
+{
+    "domanda": "L’effetto autocinetico fu utilizzato anche da Robert Jacobs e Donald Campbell (1961) in altri esperimenti di laboratorio alla Northwestern University per verificare la trasmissione _______",
+    "risposta_corretta": "delle false credenze.",
+    "altre_risposte": [
+        "di credenze condivise.",
+        "di messaggi incoerenti.",
+        "di saperi."
+    ]
+},
+{
+    "domanda": "Lydon e Dunkel-Schetter (1994) trovano che le donne incinte esprimono più ____ per la loro gravidanza dopo aver visto la foto dell'ecografia del proprio feto in fase di sviluppo.",
+    "risposta_corretta": "coinvolgimento",
+    "altre_risposte": [
+        "risentimento",
+        "ostilità",
+        "apatia"
+    ]
+},
+{
+    "domanda": "La diffusione dell'alcolismo tra i minorenni potrebbe essere correlata:",
+    "risposta_corretta": "alla reattanza psicologica.",
+    "altre_risposte": [
+        "alla tendenza all'unicità.",
+        "ai ruoli sociali.",
+        "alle influenze informative."
+    ]
+},
+{
+    "domanda": "Interpretare gli eventi in modo diverso dopo aver ascoltato gli altri è ciò che gli psicologi sociali chiamano:",
+    "risposta_corretta": "conformismo.",
+    "altre_risposte": [
+        "formazione della norma.",
+        "obbedienza.",
+        "reattanza."
+    ]
+},
+{
+    "domanda": "Quando gli studi di Milgram vennero riproposti a Bridgeport, nel Connecticut, lontano dal prestigio e dall'autorità dell'Università di Yale, la percentuale di partecipanti che aderivano completamente agli ordini di somministrare delle scosse elettriche allo studente ____ rispetto a quella di Yale.",
+    "risposta_corretta": "diminuì.",
+    "altre_risposte": [
+        "rimase invariata.",
+        "aumentò leggermente.",
+        "aumentò significativamente."
+    ]
+},
+    {
+    "domanda": "Il conformismo è maggiore quando le persone rispondono al pubblico prima che al gruppo. Questo pattern è dovuto a:",
+    "risposta_corretta": "influenza normativa.",
+    "altre_risposte": [
+        "accondiscendenza.",
+        "accettazione.",
+        "influenza informativa."
+    ]
+},
+{
+    "domanda": "I gruppi spesso rifiutano gli individui che deviano consistentemente dai ruoli sociali. Tali persone paiono essere insensibili a:",
+    "risposta_corretta": "l'influenza normativa.",
+    "altre_risposte": [
+        "l'influenza informativa.",
+        "l'Influenza qualitativa.",
+        "l'influenza prossimale."
+    ]
+},
+{
+    "domanda": "L'effetto Werther, teorizzato dal sociologo Phillips, fa riferimento:",
+    "risposta_corretta": "al comportamento suicidario imitativo.",
+    "altre_risposte": [
+        "all'effetto della pubblicità sull'aumento del numero di suicidi.",
+        "all'ideazione suicidaria.",
+        "nessuna delle alternative proposte."
+    ]
+},
+{
+    "domanda": "Nell'esperimento delle linee di Asch:",
+    "risposta_corretta": "il soggetto sperimentale tende a concordare con i collaboratori dello sperimentatore, anche quando la risposta è evidentemente sbagliata.",
+    "altre_risposte": [
+        "il soggetto sperimentale viene ingannato dai complici dello sperimentatore.",
+        "i collaboratori esercitano una qualche pressione per convincere i soggetti sperimentali a fornire la risposta corretta.",
+        "il soggetto mostra solo conformità."
+    ]
+},
+{
+    "domanda": "Gli studi di Milgram esplorano ____; quelli di Asch ____.",
+    "risposta_corretta": "l'obbedienza; il conformismo",
+    "altre_risposte": [
+        "il conformismo; la formazione della norma",
+        "il conformismo; l'obbedienza",
+        "l'obbedienza; la formazione della norma"
+    ]
+},
+{
+    "domanda": "Confrontati con individui dei Paesi individualisti, quelli dei Paesi collettivisti sono:",
+    "risposta_corretta": "più sensibili alle influenze degli altri.",
+    "altre_risposte": [
+        "più suscettibili all'errore fondamentale di attribuzione.",
+        "più portati ad esprimere reattanza psicologica.",
+        "più portati ad essere indipendenti."
+    ]
+},
+{
+    "domanda": "Se pulisce la sua stanza solo perché i suoi genitori glielo ordinano, il suo comportamento è una forma di:",
+    "risposta_corretta": "obbedienza.",
+    "altre_risposte": [
+        "accondiscendenza.",
+        "accettazione.",
+        "conformismo."
+    ]
+},
+    {
+    "domanda": "La personalità predice meglio il comportamento quando le influenze sociali sono:",
+    "risposta_corretta": "deboli.",
+    "altre_risposte": [
+        "forti.",
+        "nascoste.",
+        "ovvie."
+    ]
+},
+{
+    "domanda": "Alla luce degli studi di Milgram, quale dei seguenti non è uno dei fattori che determinano l'obbedienza?",
+    "risposta_corretta": "L'intelligenza della vittima.",
+    "altre_risposte": [
+        "La vicinanza e legittimità dell'autorità.",
+        "La distanza emotiva dalla vittima.",
+        "L'appartenenza dell'autorità a un'istituzione (autorità istituzionale)."
+    ]
+},
+{
+    "domanda": "Gli esperimenti di Asch sul conformismo mostrano che la maggior parte delle persone:",
+    "risposta_corretta": "si conforma agli altri anche quando sbagliano.",
+    "altre_risposte": [
+        "si confonde quando si confronta con gli altri.",
+        "dice la verità anche quando gli altri non lo fanno.",
+        "sono d'accordo con le decisioni degli altri."
+    ]
+},
+{
+    "domanda": "Quando l'influenza della situazione è ____, il comportamento che ne deriva è probabilmente il risultato delle ____.",
+    "risposta_corretta": "debole; personalità individuali",
+    "altre_risposte": [
+        "debole; circostanze esterne",
+        "forte; disposizioni",
+        "forte; forze interne"
+    ]
+},
+{
+    "domanda": "Quando il suo comportamento è conseguenza del fatto che il suo capo le ha detto di fare qualcosa, si tratta di una forma di:",
+    "risposta_corretta": "obbedienza.",
+    "altre_risposte": [
+        "conformismo.",
+        "accondiscendenza.",
+        "accettazione."
+    ]
+},
+{
+    "domanda": "Il grado in cui la personalità predice il nostro comportamento è ____ correlata al grado in cui le influenze sociali predicono il nostro comportamento.",
+    "risposta_corretta": "negativamente",
+    "altre_risposte": [
+        "non del tutto",
+        "leggermente",
+        "positivamente"
+    ]
+},
+{
+    "domanda": "Un'epidemia di disturbi fisici, senza base organica per i sintomi, all'interno della scuola o del luogo di lavoro è chiamata:",
+    "risposta_corretta": "isteria di massa.",
+    "altre_risposte": [
+        "delusione di massa.",
+        "influenza sociale.",
+        "influenza di massa."
+    ]
+},
+    {
+    "domanda": "La suggestionabilità a problemi che si diffondono in un ampio gruppo di persone è definita:",
+    "risposta_corretta": "isteria di massa.",
+    "altre_risposte": [
+        "effetto camaleonte.",
+        "effetto autocentrico.",
+        "isteria di gruppo."
+    ]
+},
+{
+    "domanda": "Quando i partecipanti all'esperimento di Milgram volevano smettere, essi ricevevano:",
+    "risposta_corretta": "quattro incitamenti verbali per proseguire.",
+    "altre_risposte": [
+        "soldi come incentivo per proseguire.",
+        "scosse elettriche per proseguire.",
+        "una ricompensa per essere uno dei pochi a disobbedire."
+    ]
+},
+{
+    "domanda": "La conformità che implica un'azione pubblica in risposta a una richiesta implicita o esplicita ma con un dissenso interiore è chiamata:",
+    "risposta_corretta": "accondiscendenza.",
+    "altre_risposte": [
+        "obbedienza.",
+        "conformismo.",
+        "accettazione."
+    ]
+},
+{
+    "domanda": "Nel suo classico studio ____, Sherif ha chiesto a dei gruppi di partecipanti di stimare la distanza dello spostamento di un puntino luminoso in una stanza buia.",
+    "risposta_corretta": "sulla formazione della norma",
+    "altre_risposte": [
+        "sull'obbedienza",
+        "sulla coesione di gruppo",
+        "sulla reattanza psicologica"
+    ]
+},
+{
+    "domanda": "In una variante dello studio di Milgram, si richiedeva agli insegnanti di forzare il contatto tra la mano dello studente e un pannello elettrico. In questi casi, il ____% obbediva.",
+    "risposta_corretta": "30",
+    "altre_risposte": [
+        "15",
+        "100",
+        "70"
+    ]
+},
+{
+    "domanda": "La relazione tra il grado di coesione di un gruppo e il grado in cui il gruppo ha potere sui propri membri è di tipo:",
+    "risposta_corretta": "positivo.",
+    "altre_risposte": [
+        "neutro.",
+        "curvilineare.",
+        "negativo."
+    ]
+},
+{
+    "domanda": "I più famosi e controversi esperimenti della psicologia sociale sono stati condotti da:",
+    "risposta_corretta": "Milgram.",
+    "altre_risposte": [
+        "Watson.",
+        "Sherif.",
+        "Asch."
+    ]
+},
+{
+    "domanda": "Quali delle seguenti affermazioni sul conformismo e l'obbedienza è vera?",
+    "risposta_corretta": "Essi sono fenomeni universali che variano da cultura a cultura.",
+    "altre_risposte": [
+        "Essi sono principalmente fenomeni collettivisti.",
+        "Essi sono fenomeni universali che non sono influenzati dalla cultura.",
+        "Essi sono principalmente fenomeni individualisti."
+    ]
+},
+    {
+    "domanda": "Fare quello che fanno gli altri è ciò che gli psicologi sociali chiamano:",
+    "risposta_corretta": "conformismo.",
+    "altre_risposte": [
+        "formazione della norma.",
+        "obbedienza.",
+        "reattanza."
+    ]
+},
+{
+    "domanda": "Esce a cena con Sofia, Agnese e Filippo, i suoi migliori amici. Sofia e Agnese dopo cena accendono una sigaretta. Poco dopo anche Filippo accende una sigaretta. A questo punto anche lei chiede una sigaretta e incomincia a fumare. Perché?",
+    "risposta_corretta": "Conformismo.",
+    "altre_risposte": [
+        "Persuasione.",
+        "Accondiscendenza o acquiescenza.",
+        "Obbedienza."
+    ]
+},
+{
+    "domanda": "Gli esperimenti di Asch mancavano di ____ ma presentavano il/la ____.",
+    "risposta_corretta": "realismo sperimentale; il realismo mondano",
+    "altre_risposte": [
+        "attendibilità; validità",
+        "realismo del conformismo; realismo sperimentale",
+        "validità; attendibilità"
+    ]
+},
+{
+    "domanda": "Quando Milgram condusse la sua prima serie di esperimenti con un campione di 40 uomini di età compresa tra i 20 e i 50 anni, trovi che più del 60% di essi:",
+    "risposta_corretta": "arrivarono sino alla fine, 450 volt.",
+    "altre_risposte": [
+        "rifiutarono di somministrare le scosse elettriche oltre i 150 volt.",
+        "chiesero di poter lasciare l'esperimento una volta raggiunti i 135 volt.",
+        "rifiutarono di somministrare le scosse elettriche una volta superato il livello dei 300 volt."
+    ]
+},
+{
+    "domanda": "Le ricerche sulla dimensione del gruppo e sul conformismo hanno dimostrato che:",
+    "risposta_corretta": "al crescere del gruppo, il conformismo aumenta.",
+    "altre_risposte": [
+        "al crescere del gruppo, il conformismo decresce.",
+        "la numerosità del gruppo ha influenza solo durante l'adolescenza.",
+        "la numerosità del gruppo ha influenza solo sulle donne."
+    ]
+},
+{
+    "domanda": "Il conformismo è maggiore quando le persone si sentono incompetenti. Questo pattern è dovuto alla:",
+    "risposta_corretta": "influenza informativa.",
+    "altre_risposte": [
+        "accettazione.",
+        "accondiscendenza.",
+        "influenza normativa."
+    ]
+},
+{
+    "domanda": "A Luca solitamente piace tornare a Roma dalla sua famiglia durante i periodi di vacanza dell'università. Tuttavia, dopo che suo padre gli ha detto che deve tornare a casa durante le vacanze pasquali, Luca decide di rimanere a Milano. Il comportamento di Luca è meglio spiegato in termini di:",
+    "risposta_corretta": "reattanza psicologica.",
+    "altre_risposte": [
+        "regressione.",
+        "self-serving bias.",
+        "formazione della reazione."
+    ]
+},
+    {
+    "domanda": "Il conformismo che coinvolge sia l’agire sia il credere in risposta alla pressione sociale è detto:",
+    "risposta_corretta": "accettazione o adesione interiore.",
+    "altre_risposte": [
+        "obbedienza.",
+        "acquiescenza.",
+        "accondiscendenza."
+    ]
+},
+{
+    "domanda": "____ qualche volta segue l'accondiscendenza.",
+    "risposta_corretta": "Accettazione",
+    "altre_risposte": [
+        "Conformismo",
+        "Reattanza",
+        "Obbedienza"
+    ]
+},
+{
+    "domanda": "I ricercatori hanno esplorato diverse aree per indagare i fattori che influenzano il conformismo. Quale delle seguenti è una di queste aree?",
+    "risposta_corretta": "La personalità.",
+    "altre_risposte": [
+        "L'orientamento sessuale.",
+        "La religione.",
+        "La razza."
+    ]
+},
+{
+    "domanda": "Nello studio di Milgram, lo sperimentatore utilizzava degli incitamenti verbali per incoraggiare i partecipanti a continuare. Quale tra i seguenti non è un incitamento utilizzato dallo sperimentatore?",
+    "risposta_corretta": "Lei sarà penalizzato se si rifiuterà di continuare.",
+    "altre_risposte": [
+        "Non ha altra scelta, deve continuare.",
+        "È assolutamente necessario che lei continui.",
+        "L'esperimento richiede che lei continui."
+    ]
+},
+{
+    "domanda": "Nonostante abbia promesso a se stesso di non assumere droghe illegali, Tommaso, per paura di essere rifiutato dagli altri, cede alla pressione del gruppo di amici e fuma marijuana. Il conformismo di Tommaso è il risultato:",
+    "risposta_corretta": "dell'influenza normativa.",
+    "altre_risposte": [
+        "dell'influenza informativa.",
+        "dell'accettazione.",
+        "dell'accondiscendenza."
+    ]
+},
+{
+    "domanda": "Una donna afroamericana avvocato in un gruppo di avvocati afroamericani e cinesi sarà più consapevole di essere:",
+    "risposta_corretta": "afroamericana.",
+    "altre_risposte": [
+        "avvocato.",
+        "in un gruppo.",
+        "donna."
+    ]
+},
+{
+    "domanda": "Decidi di fare un piercing sulla lingua dopo che anche il tuo amico ne ha fatto uno. Questo è un esempio di:",
+    "risposta_corretta": "conformismo.",
+    "altre_risposte": [
+        "obbedienza.",
+        "formazione della norma.",
+        "reattanza."
+    ]
+},
+    {
+    "domanda": "Il grado in cui i membri di un gruppo sono legati tra loro, come per reciproca attrazione è chiamato:",
+    "risposta_corretta": "coesione.",
+    "altre_risposte": [
+        "conformismo.",
+        "unanimità.",
+        "accondiscendenza."
+    ]
+},
+{
+    "domanda": "La teoria della reattanza psicologica potrebbe aiutare a spiegare perché:",
+    "risposta_corretta": "tutte le affermazioni proposte.",
+    "altre_risposte": [
+        "bere è più frequente per gli studenti minorenni rispetto a coloro che hanno l'età per il consumo legale di alcol.",
+        "un bambino protesta e vuole un gioco che prima ignorava quando un compagno inizia a giocare con esso.",
+        "il valore attribuito ad un oggetto è maggiore quando l'oggetto è percepito come raro o difficile da ottenere."
+    ]
+},
+{
+    "domanda": "Lo stimolo a proteggere o ristabilire il proprio senso di libertà è denominato:",
+    "risposta_corretta": "reattanza.",
+    "altre_risposte": [
+        "disobbedienza.",
+        "ribellione.",
+        "resistenza."
+    ]
+}
 ]
 
 
