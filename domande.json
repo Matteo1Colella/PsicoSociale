@@ -2424,7 +2424,2077 @@
         "ribellione.",
         "resistenza."
     ]
-}
+},
+    {
+    "domanda": "Aronson, Turner e Carlsmith (1963) ritenevano che una fonte credibile – difficile da smentire – suscitasse un cambiamento di opinione maggiore quando sosteneva una posizione ____ da quella del ricevente.",
+    "risposta_corretta": "poco discrepante",
+    "altre_risposte": [
+        "molto discrepante",
+        "coincidente",
+        "molto coincidente"
+    ]
+},
+{
+    "domanda": "Quando le persone si affidano ad elementi occasionali, come la lunghezza del messaggio, significa che è stata attivata la via ____ della persuasione.",
+    "risposta_corretta": "periferica",
+    "altre_risposte": [
+        "comportamentista",
+        "centrale",
+        "immaginativa"
+    ]
+},
+{
+    "domanda": "Quando l’informazione più recente talvolta ha più influenza si parla di effetto ____.",
+    "risposta_corretta": "recency",
+    "altre_risposte": [
+        "primacy",
+        "finale",
+        "canale di comunicazione"
+    ]
+},
+{
+    "domanda": "La via ____ alla persuasione è il processo in cui le persone si focalizzano sugli aspetti superficiali del messaggio, e impiegano semplici regole di presa di decisione che portano a stimare in maniera automatica e immediata la validità del messaggio persuasivo.",
+    "risposta_corretta": "periferica",
+    "altre_risposte": [
+        "immaginativa",
+        "logica",
+        "centrale"
+    ]
+},
+{
+    "domanda": "Quale fra queste vie è più probabile che produca un cambiamento?",
+    "risposta_corretta": "La via centrale alla persuasione.",
+    "altre_risposte": [
+        "La via elaborativa alla persuasione.",
+        "La via implicita alla persuasione.",
+        "La via periferica alla persuasione."
+    ]
+},
+{
+    "domanda": "Quando a parità di altri elementi, l’informazione fornita per prima ha più influenza, si parla di effetto ____.",
+    "risposta_corretta": "primacy",
+    "altre_risposte": [
+        "iniziale",
+        "recency",
+        "channel"
+    ]
+},
+{
+    "domanda": "Gli studi che mettono a confronto diversi tipi di media hanno rivelato che più il mezzo di comunicazione è ____, più il suo messaggio è persuasivo.",
+    "risposta_corretta": "realistico",
+    "altre_risposte": [
+        "positivo",
+        "negativo",
+        "intenso"
+    ]
+},
+    {
+    "domanda": "Cos’è l’effetto 'mettere paura'?",
+    "risposta_corretta": "Si riferisce al fatto che evocare un basso livello di paura è efficace, ma produrre un alto livello di paura non lo è.",
+    "altre_risposte": [
+        "Si riferisce alla paura che rende inefficace una comunicazione.",
+        "Si riferisce al fatto che generalmente se la gente è spaventata è più sensibile.",
+        "Si riferisce al fatto che gli appelli alla paura sono efficaci con le donne ma hanno un effetto boomerang con gli uomini."
+    ]
+},
+{
+    "domanda": "Le persone con ____ autostima sono le più facili da influenzare.",
+    "risposta_corretta": "moderata",
+    "altre_risposte": [
+        "alta",
+        "variabile",
+        "bassa"
+    ]
+},
+{
+    "domanda": "I ricercatori hanno trovato che l’affidabilità è ____ se il ricevente ritiene che il comunicatore NON stia cercando di persuaderlo.",
+    "risposta_corretta": "più alta",
+    "altre_risposte": [
+        "media",
+        "assente",
+        "più bassa"
+    ]
+},
+{
+    "domanda": "_________ è definita come l’avere qualità che piacciono all’altro.",
+    "risposta_corretta": "L’attrazione",
+    "altre_risposte": [
+        "La scarsità",
+        "La somiglianza",
+        "L’autorità"
+    ]
+},
+{
+    "domanda": "Quando una scelta riguarda questioni di valore personale, gusto o modo di vivere, comunicatori ____ hanno maggiore influenza.",
+    "risposta_corretta": "simili",
+    "altre_risposte": [
+        "diversi",
+        "disinteressati",
+        "esperti"
+    ]
+},
+{
+    "domanda": "Secondo Aronson (1997), quando la paura attiene a un’attività piacevole il risultato è spesso:",
+    "risposta_corretta": "la negazione.",
+    "altre_risposte": [
+        "l’immediato cambiamento comportamentale.",
+        "la riduzione della paura.",
+        "l’intensificazione della paura."
+    ]
+},
+{
+    "domanda": "Cosa ha rivelato lo studio condotto sulle studentesse dell’Università di Bennington?",
+    "risposta_corretta": "Le idee abbracciate in un tempo della vita in cui erano particolarmente influenzabili erano sopravvissute alla successiva esperienza di vita.",
+    "altre_risposte": [
+        "L’università le aveva fatte diventare delle brave piccole liberali.",
+        "L’università aveva fatto diventare liberali il 75% delle studentesse.",
+        "Le idee abbracciate in un tempo della vita in cui erano particolarmente influenzabili erano svanite di fronte alla successiva esperienza di vita."
+    ]
+},
+    {
+    "domanda": "Brock (1965) notò che i clienti dei negozi di vernice erano più influenzati dalla testimonianza di:",
+    "risposta_corretta": "persone comuni che avevano recentemente comprato una quantità di vernice simile a quella che volevano acquistare loro.",
+    "altre_risposte": [
+        "un esperto che aveva recentemente comprato una quantità di vernice 20 volte maggiore di quella che volevano acquistare loro.",
+        "persone comuni che avevano recentemente comprato una quantità di vernice 20 volte maggiore a quella volevano acquistare loro.",
+        "un esperto che aveva recentemente comprato una quantità di vernice simile a quella che volevano acquistare loro."
+    ]
+},
+{
+    "domanda": "Quando le persone si affidano ad elementi occasionali, come l’avvenenza di un oratore, significa che è stata attivata la via ____ della persuasione.",
+    "risposta_corretta": "periferica",
+    "altre_risposte": [
+        "immaginativa",
+        "comportamentista",
+        "centrale"
+    ]
+},
+{
+    "domanda": "Werner e colleghi (2002) hanno condotto uno studio sul riciclaggio delle lattine di alluminio all’Università dello Utah dimostrando il potere disarmante di un messaggio:",
+    "risposta_corretta": "bilaterale.",
+    "altre_risposte": [
+        "unilaterale.",
+        "discrepante.",
+        "chiaro e non ambiguo."
+    ]
+},
+{
+    "domanda": "Le persone che sono più veloci a rispondere a indizi periferici, come il fascino dell’oratore, hanno un bisogno di cognizione ____.",
+    "risposta_corretta": "basso",
+    "altre_risposte": [
+        "leggermente sopra la media",
+        "medio",
+        "alto"
+    ]
+},
+{
+    "domanda": "Quale dei seguenti esempi illustra l’influenza dei media attraverso il flusso di comunicazione a due fasi?",
+    "risposta_corretta": "Un uomo compra un nuovo detersivo per lavatrice dopo essere stato consigliato da un amico il quale ha letto sul volantino che è efficace e non produce danni all’ambiente.",
+    "altre_risposte": [
+        "Un produttore locale di auto sponsorizza un programma televisivo sui difetti di molte auto di importazione straniera.",
+        "Un adolescente compra un videogioco di cui ha visto la pubblicità sia alla televisione che nella sua rivista preferita.",
+        "Un candidato alle elezioni politiche risponde alle domande dei membri di uno studio televisivo."
+    ]
+},
+{
+    "domanda": "Il processo per cui l’influenza dei media spesso avviene attraverso opinionisti che a loro volta influenzano gli altri è definito:",
+    "risposta_corretta": "flusso di comunicazione a due fasi.",
+    "altre_risposte": [
+        "canale indiretto di comunicazione.",
+        "effetto ritardato.",
+        "effetto dell’opinion leader."
+    ]
+},
+    {
+    "domanda": "La persuasione che avviene in un secondo momento, dopo aver dimenticato la fonte o la sua connessione con il messaggio, è definita:",
+    "risposta_corretta": "effetto ritardato.",
+    "altre_risposte": [
+        "reazione retrospettiva.",
+        "effetto retroattivo.",
+        "effetto memoria a breve termine."
+    ]
+},
+{
+    "domanda": "La ricerca ha trovato che gli oratori che parlano ____ vengono valutati come più oggettivi, intelligenti e informati.",
+    "risposta_corretta": "velocemente",
+    "altre_risposte": [
+        "noiosamente",
+        "in modo eccitante",
+        "lentamente"
+    ]
+},
+{
+    "domanda": "Quale delle seguenti NON è una delle condizioni in cui una persona adotterebbe la via periferica alla persuasione?",
+    "risposta_corretta": "Quando le argomentazioni sono facili e convincenti.",
+    "altre_risposte": [
+        "Quando l’oratore è chiaro.",
+        "Quando l’oratore ha diverse argomentazioni.",
+        "La mancanza di tempo ed interesse."
+    ]
+},
+{
+    "domanda": "Lucia ha molti amici e influenza facilmente la gente. Crea legami basati su interessi simili ed elogia apertamente gli altri. Quale dei principi della persuasione individuati da Cialdini è messo in atto da Lucia?",
+    "risposta_corretta": "La simpatia.",
+    "altre_risposte": [
+        "L’autorità.",
+        "La prova sociale.",
+        "La coerenza."
+    ]
+},
+{
+    "domanda": "Chiara preferisce le lezioni in cui i professori sono visivamente più attraenti e divertenti, piuttosto che le lezioni in cui i docenti sono intelligenti ed efficaci oratori. Chiara probabilmente ha un bisogno di cognizione ____.",
+    "risposta_corretta": "basso",
+    "altre_risposte": [
+        "medio",
+        "leggermente sopra la media",
+        "alto"
+    ]
+},
+{
+    "domanda": "Le persone tendono ad avere differenti atteggiamenti sociali e politici a seconda dell’età, dal momento che le persone più anziane mantengono gli atteggiamenti che avevano da giovani. Questa è la spiegazione ____ di come l’età gioca un ruolo nella persuasione.",
+    "risposta_corretta": "generazionale.",
+    "altre_risposte": [
+        "del ciclo di vita.",
+        "dell’età.",
+        "del tempo."
+    ]
+},
+{
+    "domanda": "Il Modello della probabilità di elaborazione è di:",
+    "risposta_corretta": "Petty e Cacioppo.",
+    "altre_risposte": [
+        "Eagly e Chaiken.",
+        "Kruglanski.",
+        "Zimbardo."
+    ]
+},
+    {
+    "domanda": "La via o la modalità utilizzata per inviare un messaggio è definita ____ di comunicazione.",
+    "risposta_corretta": "canale",
+    "altre_risposte": [
+        "modo",
+        "via",
+        "metodo"
+    ]
+},
+{
+    "domanda": "Maria è interessata all’acquisto di un lettore DVD ed è confusa dal momento che nel negozio sono in vendita moltissimi modelli. Decide di consultare una rivista specialistica per conoscere la qualità della casa di produzione di questi strumenti elettronici. Dopo aver letto un certo numero di articoli inerenti le proprietà e le caratteristiche di ciascuno modello, ne sceglie uno. Nell’acquisto del lettore DVD, Maria è stata portata ad utilizzare la via ____ alla persuasione.",
+    "risposta_corretta": "centrale",
+    "altre_risposte": [
+        "periferica",
+        "logica",
+        "immaginativa"
+    ]
+},
+{
+    "domanda": "____ è il processo che, mediante atti di comunicazione, conduce alla formazione, rafforzamento o modifica degli atteggiamenti.",
+    "risposta_corretta": "La persuasione",
+    "altre_risposte": [
+        "L’inoculazione",
+        "L’accondiscendenza",
+        "L’effetto ritardato"
+    ]
+},
+{
+    "domanda": "Kiesler (1971) sostiene che un modo per stimolare il pensiero delle persone, così che siano più impegnate nelle loro posizioni, consiste:",
+    "risposta_corretta": "nell’attaccare blandemente le loro posizioni.",
+    "altre_risposte": [
+        "nel supportare blandemente le loro posizioni.",
+        "nel supportare fortemente le loro posizioni.",
+        "nell’attaccare fortemente le loro posizioni."
+    ]
+},
+{
+    "domanda": "Il processo di elaborazione sistematica e attenta delle informazioni contenute nel messaggio persuasivo è detto:",
+    "risposta_corretta": "via centrale alla persuasione.",
+    "altre_risposte": [
+        "nessuna delle alternative proposte.",
+        "via periferica alla persuasione.",
+        "attenzione al messaggio."
+    ]
+},
+{
+    "domanda": "È più probabile che noi siamo persuasi dalla via ____ quando siamo distratti o molto occupati.",
+    "risposta_corretta": "periferica",
+    "altre_risposte": [
+        "centrale",
+        "logica",
+        "immaginativa"
+    ]
+},
+{
+    "domanda": "Darley and Cooper (1972) invitarono gli studenti a scrivere una breve esercitazione a favore di un codice rigido sull’abbigliamento e poiché questo era contrario alle posizioni degli studenti essi scelsero di:",
+    "risposta_corretta": "non eseguire il compito anche se pagati.",
+    "altre_risposte": [
+        "eseguire il compito.",
+        "non eseguire il compito.",
+        "eseguire il compito se pagati."
+    ]
+},
+    {
+    "domanda": "La motivazione a pensare e analizzare è definita bisogno di:",
+    "risposta_corretta": "cognizione.",
+    "altre_risposte": [
+        "contemplazione.",
+        "nessuna delle precedenti.",
+        "pensiero."
+    ]
+},
+{
+    "domanda": "Susanna è interessata all’acquisto di un lettore DVD ed è confusa dal momento che nel negozio sono in vendita moltissimi modelli. Decide di acquistare un modello di colore metallo molto brillante, il più carino che aveva visto in vetrina. Nell’acquisto di questo particolare lettore DVD, Susanna è stata portata ad utilizzare la via ____ alla persuasione.",
+    "risposta_corretta": "periferica",
+    "altre_risposte": [
+        "immaginativa",
+        "logica",
+        "centrale"
+    ]
+},
+{
+    "domanda": "È più probabile essere persuasi quando un messaggio è:",
+    "risposta_corretta": "chiaro e semplice da comprendere e gli argomenti sono convincenti.",
+    "altre_risposte": [
+        "difficile da comprendere e gli argomenti sono convincenti.",
+        "chiaro e semplice da comprendere e gli argomenti non sono convincenti.",
+        "difficile da comprendere e gli argomenti non sono convincenti."
+    ]
+},
+{
+    "domanda": "Cialdini chiama ____ il principio della persuasione secondo cui le persone si rivolgono a esperti credibili.",
+    "risposta_corretta": "autorità",
+    "altre_risposte": [
+        "prova sociale",
+        "simpatia",
+        "reciprocità"
+    ]
+},
+{
+    "domanda": "Un comunicatore è ____ quando è percepito come competente ed affidabile.",
+    "risposta_corretta": "credibile",
+    "altre_risposte": [
+        "poco astuto",
+        "onesto",
+        "onorevole"
+    ]
+},
+{
+    "domanda": "Miller e colleghi (1976) hanno riscontrato una relazione ____ fra l’affidabilità e la velocità di eloquio.",
+    "risposta_corretta": "positiva",
+    "altre_risposte": [
+        "neutra",
+        "negativa",
+        "curvilineare"
+    ]
+},
+{
+    "domanda": "Quando Asch (1946) fece leggere agli studenti una descrizione di qualcuno come 'intelligente, laborioso, impulsivo, critico, ostinato e invidioso' essi valutarono la persona ____ di coloro che seguivano l’ordine opposto degli aggettivi.",
+    "risposta_corretta": "meno positivamente",
+    "altre_risposte": [
+        "meno attraente",
+        "più attraente",
+        "più positivamente"
+    ]
+},
+    {
+    "domanda": "Noi tendiamo a provare simpatia per le persone che sono come noi. Quale delle caratteristiche dell’attrazione esemplifica questo fenomeno?",
+    "risposta_corretta": "La somiglianza.",
+    "altre_risposte": [
+        "L’apparenza fisica.",
+        "La coerenza.",
+        "La simpatia."
+    ]
+},
+{
+    "domanda": "Quale via alla persuasione è più probabile che conduca a cambiamenti temporanei negli atteggiamenti e nei comportamenti?",
+    "risposta_corretta": "Periferica.",
+    "altre_risposte": [
+        "Centrale.",
+        "Immaginativa.",
+        "Logica."
+    ]
+},
+{
+    "domanda": "Chi è più sensibile agli appelli razionali?",
+    "risposta_corretta": "Le persone istruite e analitiche.",
+    "altre_risposte": [
+        "Le persone meno istruite e analitiche.",
+        "Le persone meno istruite e non analitiche.",
+        "Le persone istruite e non analitiche."
+    ]
+},
+{
+    "domanda": "Le argomentazioni, soprattutto quelle emotive, sono spesso più influenti se provengono da persone che si ritengono attraenti. Quale delle caratteristiche dell’attrazione esemplifica questo fenomeno?",
+    "risposta_corretta": "L’apparenza fisica.",
+    "altre_risposte": [
+        "La coerenza.",
+        "La simpatia.",
+        "La somiglianza."
+    ]
+},
+    {
+    "domanda": "L’illusione di unanimità in un gruppo è un aspetto del/della:",
+    "risposta_corretta": "groupthink o pensiero di gruppo.",
+    "altre_risposte": [
+        "deindividuazione.",
+        "razionalizzazione.",
+        "facilitazione sociale."
+    ]
+},
+{
+    "domanda": "Il ruolo delle minoranze attive è stato oggetto di studio e di riflessione in particolare di:",
+    "risposta_corretta": "Moscovici.",
+    "altre_risposte": [
+        "Asch.",
+        "Lewin.",
+        "Tajfel."
+    ]
+},
+{
+    "domanda": "A parere di Fiedler una caratteristica di un buon leader è:",
+    "risposta_corretta": "la capacità di adeguare lo stile di leadership alle richieste della situazione.",
+    "altre_risposte": [
+        "la capacità di promuovere l’indipendenza dei subordinati.",
+        "la capacità gestire le relazioni con i subordinati.",
+        "la capacità di prendersi cura delle relazioni dei membri del gruppo."
+    ]
+},
+{
+    "domanda": "Tutti questi fattori contribuiscono alla deindividuzione ECCETTO:",
+    "risposta_corretta": "i valori individuali.",
+    "altre_risposte": [
+        "le dimensioni del gruppo.",
+        "l’anonimato.",
+        "attività di gruppo."
+    ]
+},
+{
+    "domanda": "Quale delle seguenti circostanze contribuisce a rendere le persone 'deindividuate'?",
+    "risposta_corretta": "Tutte le circostanze citate.",
+    "altre_risposte": [
+        "L’ampiezza del gruppo.",
+        "La diminuzione della coscienza di sè.",
+        "L’anonimato."
+    ]
+},
+{
+    "domanda": "Quali tra questi sintomi portano i membri di un gruppo a sopravvalutare il gruppo stesso?",
+    "risposta_corretta": "Illusione di invulnerabilità e credenza nella moralità intrinseca del gruppo.",
+    "altre_risposte": [
+        "Razionalizzazione e stereotipizzazione dei gruppi esterni.",
+        "Razionalizzazione e pressione diretta sui dissenzienti.",
+        "Illusione di invulnerabilità e autocensura."
+    ]
+},
+{
+    "domanda": "Un effetto della deindividuazione è:",
+    "risposta_corretta": "la diminuzione della coscienza di sè.",
+    "altre_risposte": [
+        "l’aumento dell’autocontrollo.",
+        "lo spostamento verso il rischio.",
+        "la facilitazione sociale."
+    ]
+},
+{
+    "domanda": "Le persone di un gruppo tendono a essere meno soggette all’inerzia sociale quando:",
+    "risposta_corretta": "il compito è una sfida importante e coinvolgente.",
+    "altre_risposte": [
+        "i componenti del gruppo non si conoscono tra di loro.",
+        "il compito è difficile.",
+        "il compito non è ricompensato."
+    ]
+},
+    {
+    "domanda": "La relazione tra l’ampiezza del gruppo e la probabilità di deindividuazione è:",
+    "risposta_corretta": "positiva.",
+    "altre_risposte": [
+        "negativa",
+        "neutra",
+        "curvilineare."
+    ]
+},
+{
+    "domanda": "In un esperimento Latanè e colleghi (1979) hanno chiesto a un gruppo di persone di acclamare ed applaudire più forte che potevano. Quando si ottenne la migliore prestazione?",
+    "risposta_corretta": "I partecipanti erano soli.",
+    "altre_risposte": [
+        "I partecipanti credevano che ci fossero altre persone ad applaudire con loro.",
+        "I partecipanti erano in gruppo.",
+        "I partecipanti pensavano di non essere valutati."
+    ]
+},
+{
+    "domanda": "Quale fra i seguenti NON è un gruppo?",
+    "risposta_corretta": "Studenti che lavorano in un laboratorio di computer su compiti indipendenti.",
+    "altre_risposte": [
+        "Studenti che preparano insieme il loro esame di psicologia sociale.",
+        "Un numero di persone che si incontra settimanalmente alla riunione degli Alcolisti Anonimi.",
+        "Persone che fanno jogging insieme ogni mattino."
+    ]
+},
+{
+    "domanda": "Un insieme di due o più persone che condividono un destino comune che li porta a qualche forma di interdipendenza tra loro e che si percepiscono come membri di uno stesso aggregato sociale che è riconosciuto come tale da altre persone si definisce:",
+    "risposta_corretta": "gruppo.",
+    "altre_risposte": [
+        "folla.",
+        "ressa.",
+        "clan."
+    ]
+},
+{
+    "domanda": "Le persone in un gruppo non mettono in atto inerzia sociale quando:",
+    "risposta_corretta": "il compito è per loro importante e coinvolgente.",
+    "altre_risposte": [
+        "il compito è stressante.",
+        "il compito non è ricompensato.",
+        "il compito è difficile."
+    ]
+},
+{
+    "domanda": "Hai notato che quando sei in palestra i tuoi esercizi di routine non sono influenzati dalle altre persone nella stanza. Tuttavia ti senti influenzato nei tuoi esercizi quando sai che gli altri ti stanno guardando. Questo tipo di comportamento è chiamato:",
+    "risposta_corretta": "timore della valutazione.",
+    "altre_risposte": [
+        "effetto di mera presenza.",
+        "facilitazione sociale.",
+        "inerzia sociale."
+    ]
+},
+{
+    "domanda": "Quale dei seguenti NON è un esempio di influenza sociale in un gruppo di persone che interagiscono?",
+    "risposta_corretta": "Deindividuazione.",
+    "altre_risposte": [
+        "Influenza della minoranza.",
+        "Groupthink o pensiero di gruppo.",
+        "Polarizzazione di gruppo."
+    ]
+},
+    {
+    "domanda": "Il leader che eccelle nell’organizzare il lavoro e favorire il raggiungimento degli obiettivi è orientato alla leadership ____.",
+    "risposta_corretta": "al compito",
+    "altre_risposte": [
+        "maschile",
+        "femminile",
+        "alla relazione o socioemozionale"
+    ]
+},
+{
+    "domanda": "Le persone di un gruppo tendono a essere meno soggette all’inerzia sociale quando:",
+    "risposta_corretta": "il compito è una sfida importante e coinvolgente.",
+    "altre_risposte": [
+        "il compito non è ricompensato.",
+        "i componenti del gruppo non si conoscono tra di loro.",
+        "il compito è difficile."
+    ]
+},
+{
+    "domanda": "Zimbardo ha riportato che le donne che indossavano cappucci e mantelli come quelli dei membri del Ku-Klux-Klan tendevano a ____ rispetto alle donne non travestite.",
+    "risposta_corretta": "somministrare scariche elettriche più lunghe",
+    "altre_risposte": [
+        "prendere decisioni più rischiose",
+        "legarsi maggiormente e rivelare informazioni personali",
+        "impiegare maggiore inerzia sociale"
+    ]
+},
+{
+    "domanda": "Luca ha la tendenza a impegnarsi di meno nei compiti di gruppo poichè pensa che gli altri miglioreranno la sua inattività con uno sforzo volto a raggiungere un buon livello. Questo è un esempio di:",
+    "risposta_corretta": "inerzia sociale.",
+    "altre_risposte": [
+        "facilitazione sociale.",
+        "mera presenza.",
+        "deindividuazione."
+    ]
+},
+{
+    "domanda": "Dopo aver fatto un colloquio con la società in cui le piacerebbe lavorare, lei capisce che le domande erano volte ad indagare la sua capacità di organizzare gli impiegati, di stabilire gli obiettivi e raggiungerli. La società le ha posto queste domande nel tentativo di determinare se lei eccelle nella:",
+    "risposta_corretta": "leadership al compito.",
+    "altre_risposte": [
+        "leadership maschile.",
+        "leadership della relazione o socioemozionale.",
+        "leadership del laissez faire."
+    ]
+},
+{
+    "domanda": "Il pensiero di gruppo può essere definito come:",
+    "risposta_corretta": "la tendenza ad eliminare il dissenso a favore della coesione di gruppo.",
+    "altre_risposte": [
+        "la tendenza a sacrificare la coesione di gruppo a favore della risoluzione del compito.",
+        "la riduzione di auto-consapevolezza a causa dell’anonimato sociale.",
+        "l’incremento della capacità di risolvere un compito perché realizzato in gruppo."
+    ]
+},
+{
+    "domanda": "Il leader del compito adotta uno stile ____ mentre il leader della relazione o socioemozionale adotta uno stile ____.",
+    "risposta_corretta": "direttivo; democratico",
+    "altre_risposte": [
+        "collettivista; individualista",
+        "democratico; direttivo",
+        "femminile; maschile"
+    ]
+},
+    {
+    "domanda": "Più grande è la folla, ____ una persona tende ad essere ____.",
+    "risposta_corretta": "meno; attivata",
+    "altre_risposte": [
+        "più; attivata",
+        "più; calma",
+        "meno; calma"
+    ]
+},
+{
+    "domanda": "La ricerca indica che le minoranze sono più influenti quando:",
+    "risposta_corretta": "si mantengono coerenti alla propria posizione.",
+    "altre_risposte": [
+        "sostengono posizioni molto discrepanti da quelle della maggioranza.",
+        "utilizzano appelli bilaterali piuttosto che unilaterali.",
+        "mostrano rispetto per la posizione della maggioranza."
+    ]
+},
+{
+    "domanda": "La valutazione delle proprie capacità e opinioni mediante il confronto tra sè e gli altri è definita:",
+    "risposta_corretta": "teoria del confronto sociale.",
+    "altre_risposte": [
+        "teoria della reattanza psicologica.",
+        "processo dell’influenza normativa.",
+        "processo dell’influenza informativa."
+    ]
+},
+{
+    "domanda": "La docente di psicologia sociale ha assegnato alla classe il compito di svolgere dei progetti di gruppo. Ha indicato il grado in cui ciascuno studente deve contribuire al compito nel tentativo di ridurre:",
+    "risposta_corretta": "l’inerzia sociale.",
+    "altre_risposte": [
+        "la polarizzazione di gruppo.",
+        "l’influenza della minoranza.",
+        "la facilitazione sociale."
+    ]
+},
+{
+    "domanda": "Una rassegna degli studi sulla deindividuazione ha dimostrato che l’anonimato rende una persona ____ a stimoli presenti in una situazione positiva o negativa.",
+    "risposta_corretta": "più reattiva",
+    "altre_risposte": [
+        "improvvisamente reattiva",
+        "ambivalente",
+        "meno reattiva"
+    ]
+},
+{
+    "domanda": "Linda è un leader molto efficace che eccelle nel delegare l’autorità, favorire il coinvolgimento del gruppo e nel supportarlo. Linda eccelle nella:",
+    "risposta_corretta": "leadership relazionale o socioemozionale.",
+    "altre_risposte": [
+        "leadership del laissez faire.",
+        "leadership del compito.",
+        "leadership femminile."
+    ]
+},
+{
+    "domanda": "Una folla di persone é un facile contesto per lo sviluppo di:",
+    "risposta_corretta": "deindividuazione.",
+    "altre_risposte": [
+        "inerzia sociale.",
+        "spostamento verso il rischio.",
+        "groupthink o pensiero di gruppo."
+    ]
+},
+    {
+    "domanda": "Giulio è un leader direttivo di un gruppo fortemente coeso di studenti universitari. Quando si discute di importanti decisioni politiche, il gruppo sarebbe maggiormente a rischio di cadere nel pensiero di gruppo se esso fosse anche:",
+    "risposta_corretta": "isolato da punti di vista dissidenti dal proprio.",
+    "altre_risposte": [
+        "consapevole dei danni di una decisione sbagliata.",
+        "ben informato riguardo ad entrambi i lati della questione.",
+        "composto da studenti della minoranza e della maggioranza."
+    ]
+},
+{
+    "domanda": "Quel processo che porta una persona ad accettare la definizione della realtà fornita da altri, al fine di ottenere l’approvazione o evitare le critiche da parte di questi è detta:",
+    "risposta_corretta": "influenza normativa.",
+    "altre_risposte": [
+        "influenza della maggioranza.",
+        "influenza informativa.",
+        "influenza della minoranza."
+    ]
+},
+{
+    "domanda": "Quale delle seguenti NON è un esempio di influenza del gruppo sulle altre persone e su altri gruppi?",
+    "risposta_corretta": "Inerzia sociale.",
+    "altre_risposte": [
+        "Deindividuazione",
+        "Facilitazione sociale.",
+        "Conformismo."
+    ]
+},
+{
+    "domanda": "La presenza di altre persone migliora le prestazioni in molte attività. Come si definisce questo effetto?",
+    "risposta_corretta": "Effetto di facilitazione sociale.",
+    "altre_risposte": [
+        "Effetto del pensiero di gruppo.",
+        "Deindividuazione.",
+        "Inerzia sociale."
+    ]
+},
+{
+    "domanda": "Quando l’essere osservati accresce il timore per la valutazione, si verifica ____; quando l’essere in una folla diminuisce il timore della valutazione, si verifica ____.",
+    "risposta_corretta": "la facilitazione sociale; la deindividuazione",
+    "altre_risposte": [
+        "l’inerzia sociale; la facilitazione sociale",
+        "il pensiero di gruppo; la deindividuazione",
+        "la deindividuazione; il pensiero di gruppo"
+    ]
+},
+{
+    "domanda": "Secondo la psicologia sociale, un gruppo esiste quando due o più persone interagiscono tra di loro, si influenzano e:",
+    "risposta_corretta": "si percepiscono come “noi”.",
+    "altre_risposte": [
+        "si trovano nello stesso luogo.",
+        "lavorano insieme.",
+        "si aiutano a vicenda."
+    ]
+},
+{
+    "domanda": "L’incremento del numero di palazzi in cui gli uffici si trovano tutti in un open space invece che ognuno in uno studio privato, è un esempio di come la ricerca sulla facilitazione sociale ha:",
+    "risposta_corretta": "suggerito applicazioni pratiche.",
+    "altre_risposte": [
+        "aiutato a confermare la teoria.",
+        "viene valutata dalle aziende.",
+        "guidato all’esplorazione di nuovi argomenti di ricerca."
+    ]
+},
+    {
+    "domanda": "Seduto ad un meeting, Giovanni si sente sempre più a disagio rispetto al clima di consenso che si è generato nel gruppo. Non volendo creare dissensi, nasconde le sue opinioni ed accetta quelle del gruppo. Questo è un esempio di:",
+    "risposta_corretta": "autocensura.",
+    "altre_risposte": [
+        "leader socio-emozionale.",
+        "razionalizzazione.",
+        "avvocato del diavolo."
+    ]
+},
+{
+    "domanda": "Secondo l’approccio genetico di Moscovici:",
+    "risposta_corretta": "ogni persona è potenzialmente fonte e bersaglio di influenza, a prescindere dal proprio status.",
+    "altre_risposte": [
+        "l’influenza sociale guida tutte le azioni sociali.",
+        "solo le persone della minoranza sono fonte di bersaglio dell’influenza.",
+        "maggioranza e minoranza sono in perenne conflitto."
+    ]
+},
+{
+    "domanda": "Il processo psicologico risultante dalla reciproca accettazione tra i membri e il gruppo a cui questi appartengono, unita alla capacità del gruppo di soddisfare gli obiettivi delle persone è detto:",
+    "risposta_corretta": "coesione sociale.",
+    "altre_risposte": [
+        "influenza sociale.",
+        "groupthink.",
+        "confronto sociale."
+    ]
+},
+{
+    "domanda": "La ricerca sulla leadership indica che:",
+    "risposta_corretta": "i supervisori efficaci tendono ad avere punteggi alti sia nella leadership orientata al compito che nella leadership orientata alla relazione o socio emozionale.",
+    "altre_risposte": [
+        "i leader più efficaci si discostano dagli standard del gruppo.",
+        "tutti i grandi leader condividono certi tratti.",
+        "i grandi leader hanno tra loro poco in comune."
+    ]
+},
+{
+    "domanda": "La tendenza individuale a impegnarsi meno in un compito quando il proprio contributo è inglobato in una prestazione complessiva del gruppo rispetto a quando lo stesso compito viene eseguito da soli è definita:",
+    "risposta_corretta": "inerzia sociale.",
+    "altre_risposte": [
+        "omologazione.",
+        "facilitazione sociale.",
+        "resistenza sociale."
+    ]
+},
+{
+    "domanda": "Anna è a favore della pena di morte. Nel discutere di questo tema con alcuni compagni che la pensano allo stesso modo sente argomentazioni che non aveva mai considerato prima. Dopo la discussione, la sua opinione è più estrema. Questo risultato è meglio spiegato da cosa?",
+    "risposta_corretta": "Teoria del confronto sociale.",
+    "altre_risposte": [
+        "Processo dell’influenza normativa.",
+        "Processo dell’influenza informativa.",
+        "Teoria della reattanza psicologica."
+    ]
+},
+{
+    "domanda": "Un sintomo del groupthink è:",
+    "risposta_corretta": "l’autocensura.",
+    "altre_risposte": [
+        "il fallimento nel cercare norme di gruppo.",
+        "il confronto sociale.",
+        "una illusione di dissenso."
+    ]
+},
+    {
+    "domanda": "Quando le persone sperimentano una mancanza di autoconsapevolezza e una mancanza di tensione per la valutazione, siamo in presenza di:",
+    "risposta_corretta": "deindividuazione.",
+    "altre_risposte": [
+        "facilitazione sociale.",
+        "pensiero di gruppo.",
+        "inerzia sociale."
+    ]
+},
+{
+    "domanda": "Gli studenti che partecipano a gruppi extracurriculari in università, stando nel gruppo tendono a trovarsi più d’accordo con gli atteggiamenti che riguardano le finalità del gruppo stesso. Questo è un esempio di:",
+    "risposta_corretta": "polarizzazione di gruppo.",
+    "altre_risposte": [
+        "influenza della maggioranza.",
+        "facilitazione sociale.",
+        "pensiero di gruppo."
+    ]
+},
+{
+    "domanda": "Il Groupthink o pensiero di gruppo come può essere definito?",
+    "risposta_corretta": "La tendenza del gruppo a raggiungere un consenso piuttosto che prendere la decisione giusta.",
+    "altre_risposte": [
+        "Il miglioramento della capacità di problem solving come risultato dell’unione di diverse persone che lavorano sullo stesso problema.",
+        "La riduzione della coscienza di sè come risultato dell’immersione nel gruppo e dell’anonimato.",
+        "La tendenza a sacrificare la coesione del gruppo per focalizzarsi su compiti di orientamento e sulla risoluzione dei problemi."
+    ]
+},
+{
+    "domanda": "____ discussione produce più cambiamenti negli atteggiamenti rispetto ____.",
+    "risposta_corretta": "Partecipare attivamente alla; all’ascoltare passivamente",
+    "altre_risposte": [
+        "Concordare con la; all’argomentare",
+        "Portare argomenti alla; al solo concordare",
+        "Ascoltare passivamente la; al partecipare in modo attivo."
+    ]
+},
+{
+    "domanda": "La dott.ssa Vergani è un leader che eccelle nella capacità di motivare i suoi collaboratori, supportarli e delegare loro parti importanti del processo lavorativo. Siamo in presenza di una leadership di tipo:",
+    "risposta_corretta": "socio-emotivo.",
+    "altre_risposte": [
+        "orientato al compito.",
+        "laissez faire.",
+        "femminile."
+    ]
+},
+{
+    "domanda": "I primi studi sulla polarizzazione di gruppo giunsero all’erronea conclusione che la discussione che intercorre tra i componenti del gruppo stesso conduce:",
+    "risposta_corretta": "allo spostamento verso soluzioni rischiose.",
+    "altre_risposte": [
+        "al pensiero di gruppo.",
+        "alla moderazione di gruppo.",
+        "all’ignoranza pluralistica."
+    ]
+},
+{
+    "domanda": "La ____ riducendo la coscienza di sé, riduce l’accessibilità alle norme interiori di comportamento.",
+    "risposta_corretta": "deindividuazione",
+    "altre_risposte": [
+        "facilitazione sociale",
+        "inerzia sociale",
+        "polarizzazione di gruppo"
+    ]
+},
+    {
+    "domanda": "Il processo decisionale di un gruppo che è fortemente compromesso dalla motivazione dei suoi componenti a raggiungere un consenso, indipendentemente da come quel consenso venga ottenuto, è detto:",
+    "risposta_corretta": "pensiero di gruppo.",
+    "altre_risposte": [
+        "influenza della minoranza.",
+        "facilitazione sociale.",
+        "polarizzazione di gruppo."
+    ]
+},
+{
+    "domanda": "Maria è bravissima ad organizzare il lavoro dei suoi dipendenti, stabilisce gli obiettivi e presta attenzione al raggiungimento di questi obiettivi per la propria azienda. Maria dimostra di possedere ottime competenze nella:",
+    "risposta_corretta": "leadership del compito.",
+    "altre_risposte": [
+        "leadership relazionale o socioemozionale.",
+        "leadership del laissez faire.",
+        "leadership maschile."
+    ]
+},
+    {
+    "domanda": "Il tuo nuovo coinquilino si presenta come una persona che ha origini inglesi e tahitiane. Sarà più probabile che lo presenterai come un amico che",
+    "risposta_corretta": "ha origini inglesi e tahitiane.",
+    "altre_risposte": [
+        "ha origini tahitiane.",
+        "ha origini inglesi.",
+        "convive con te."
+    ]
+},
+{
+    "domanda": "La teoria del mondo giusto ci porta a pensare che un disoccupato sia:",
+    "risposta_corretta": "una persona pigra.",
+    "altre_risposte": [
+        "bisognoso di simpatia.",
+        "bisognoso di un programma di formazione.",
+        "una vittima di discriminazione."
+    ]
+},
+{
+    "domanda": "In una ricerca bibliografica sul materiale esistente relativo agli studi sul pregiudizio di genere, nella valutazione del lavoro maschile e femminile, il risultato più comune trovato è stato che:",
+    "risposta_corretta": "le distorsioni dovute al pregiudizio di genere si presentano in uomini e donne con pari frequenza.",
+    "altre_risposte": [
+        "la maggiore distorsione delle donne sul lavoro delle donne.",
+        "la maggiore distorsione degli uomini sul lavoro delle donne.",
+        "la maggiore distorsione delle donne sul lavoro degli uomini."
+    ]
+},
+{
+    "domanda": "La tendenza a favorire il proprio gruppo è detta:",
+    "risposta_corretta": "bias dell'ingroup.",
+    "altre_risposte": [
+        "bias del gruppo.",
+        "bias intergruppi.",
+        "bias dell'outgroup."
+    ]
+},
+{
+    "domanda": "La capacità di un elemento di attrarre l’attenzione all’interno di uno specifico contesto è detta:",
+    "risposta_corretta": "salienza.",
+    "altre_risposte": [
+        "focus dell'attenzione.",
+        "distrattore.",
+        "elemento emergente."
+    ]
+},
+{
+    "domanda": "Come si chiama una pratica istituzionale che subordina le persone di un determinato sesso?",
+    "risposta_corretta": "Discriminazione sessuale.",
+    "altre_risposte": [
+        "Pregiudizio.",
+        "Stereotipo.",
+        "Discriminazione."
+    ]
+},
+{
+    "domanda": "La teoria del conflitto realistico sostiene che il pregiudizio sorge:",
+    "risposta_corretta": "dalla competizione tra i gruppi per risorse insufficienti.",
+    "altre_risposte": [
+        "quando nel gruppo fallisce la comunicazione tra i componenti.",
+        "ogni volta che le persone provano a vivere assieme.",
+        "quando un nuovo gruppo si muove in una nuova area."
+    ]
+},
+    {
+    "domanda": "Sabrina pensa che tutti gli psicologi siano noiosi. Quando incontra Giovanni è sorpresa perché lo trova brillante, divertente, imprevedibile. Cosa succederà a questo punto?",
+    "risposta_corretta": "Sabrina dirà che Giovanni è un'eccezione alla regola.",
+    "altre_risposte": [
+        "Sabrina rivedrà il suo stereotipo.",
+        "Sabrina dirà che Giovanni non le piace.",
+        "Sabrina penserà che Giovanni si è mostrato simpatico per una qualche forma di self-serving bias."
+    ]
+},
+{
+    "domanda": "Giovanni crede che tutti i musulmani siano violenti estremisti, cosa rappresenta questa affermazione?",
+    "risposta_corretta": "Stereotipo.",
+    "altre_risposte": [
+        "Un esempio del pensiero di gruppo.",
+        "Disciminazione.",
+        "Tendenza all'azione."
+    ]
+},
+{
+    "domanda": "Una personalità incline a favorire l’obbedienza all’autorità e l’intolleranza verso l’outgroup e verso persone di status sociale inferiore è detta:",
+    "risposta_corretta": "personalità autoritaria.",
+    "altre_risposte": [
+        "personalità autorevole.",
+        "personalità tirannica.",
+        "personalità autocratica."
+    ]
+},
+{
+    "domanda": "Luca ha un alto orientamento al dominio sociale. Quale dei seguenti percorsi universitari difficilmente verrà scelto?",
+    "risposta_corretta": "Assistente sociale.",
+    "altre_risposte": [
+        "Economia aziendale.",
+        "Giurisprudenza.",
+        "Economia politica."
+    ]
+},
+{
+    "domanda": "Gli studi di Pettigrew in Sud Africa nel 1950 durante l'apartheid rivelano che chi ____ era chi aveva più pregiudizi.",
+    "risposta_corretta": "si conformava maggiormente alle norme sociali",
+    "altre_risposte": [
+        "aveva un grande potere sociale",
+        "era più scolarizzato",
+        "era più svantaggiato"
+    ]
+},
+{
+    "domanda": "____ si verifica quando le persone che deviano dal loro stereotipo sono ripensate come eccezione alla regola.",
+    "risposta_corretta": "Sottocategorizzazione",
+    "altre_risposte": [
+        "Discriminazione",
+        "Sottoraggruppamento",
+        "Pregiudizio"
+    ]
+},
+{
+    "domanda": "Il 'noi' è un aspetto del concetto di sé che viene definito:",
+    "risposta_corretta": "la nostra identità sociale.",
+    "altre_risposte": [
+        "l'outgroup.",
+        "la nostra identità di gruppo.",
+        "l'ingroup."
+    ]
+},
+    {
+    "domanda": "Maria pensa che le persone sono povere perché in realtà sono pigre. Il pensiero di Maria è un esempio del fenomeno chiamato teoria:",
+    "risposta_corretta": "del mondo giusto.",
+    "altre_risposte": [
+        "del bias ingroup.",
+        "della retribuzione.",
+        "dell'invulnerabilità del fenomeno."
+    ]
+},
+{
+    "domanda": "____ è un atteggiamento negativo; ____ è un comportamento negativo.",
+    "risposta_corretta": "Pregiudizio, discriminazione",
+    "altre_risposte": [
+        "Razzismo; stereotipo",
+        "Stereotipo; razzismo",
+        "Disciminazione; pregiudizio"
+    ]
+},
+{
+    "domanda": "La spinta a far sì che il proprio gruppo domini gli altri gruppi sociali è chiamata dagli psicologi sociali:",
+    "risposta_corretta": "orientamento al dominio sociale.",
+    "altre_risposte": [
+        "discriminazione",
+        "pregiudizio.",
+        "stato iniquo."
+    ]
+},
+{
+    "domanda": "Il signor Brambilla crede che i neri siano tutti pigri, è un esempio di ____. Il suo rifiuto di affittare un appartamento a una famiglia di colore è un esempio di ____.",
+    "risposta_corretta": "stereotipo; discriminazione",
+    "altre_risposte": [
+        "razzismo; pregiudizio",
+        "stereotipo; razzismo",
+        "discriminazione; pregiudizio"
+    ]
+},
+{
+    "domanda": "Il fenomeno del mondo giusto può portare le persone a pensare che",
+    "risposta_corretta": "le vittime di stupro hanno agito in modo provocatorio.",
+    "altre_risposte": [
+        "le persone malate non sono responsabili della loro malattia.",
+        "le persone povere meritano il meglio.",
+        "i vincitori di una lotteria daranno tutto in beneficenza."
+    ]
+},
+{
+    "domanda": "Altemeyer (1988) sostiene che ____ sono le persone con maggiori pregiudizi nella nostra società.",
+    "risposta_corretta": "autoritari di destra",
+    "altre_risposte": [
+        "persone con un alto livello di dominio sociale",
+        "persone fortemente religiose",
+        "persone con un alto livello di dominio sociale e di autoritarismo"
+    ]
+},
+{
+    "domanda": "La ricerca tedesca di Schwarz e Kurz(1989) ha confermato che le persone il cui volto nelle foto è prominente, sembrano:",
+    "risposta_corretta": "più intelligenti e ambiziose.",
+    "altre_risposte": [
+        "meno potenti.",
+        "più avvenenti.",
+        "più giovani."
+    ]
+},
+{
+    "domanda": "La tendenza delle persone a riconoscere più facilmente la faccia di persone che appartengono alla loro stessa etnia è chiamata:",
+    "risposta_corretta": "effetto di omogeneità dell'outgroup.",
+    "altre_risposte": [
+        "effetto di eterogeneità dell'ingroup.",
+        "effetto di omologazione.",
+        "bias per la propria etnia."
+    ]
+},
+    {
+    "domanda": "Essere cosciente di uno stigma può essere un vantaggio perché protegge:",
+    "risposta_corretta": "l'autostima.",
+    "altre_risposte": [
+        "la libertà.",
+        "l'autonomia.",
+        "la fiducia in se stessi."
+    ]
+},
+{
+    "domanda": "La tendenza delle persone a credere che il mondo sia giusto e che perciò gli individui ottengano ciò che si meritano e meritino ciò che ottengono è chiamata:",
+    "risposta_corretta": "teoria del mondo giusto.",
+    "altre_risposte": [
+        "bias del mondo giusto.",
+        "ipotesi del mondo giusto.",
+        "teoria del mondo ingiusto."
+    ]
+},
+{
+    "domanda": "Siamo più inclini al bias dell'outgroup quando il nostro gruppo, rispetto all'outgroup, è ____ e ____.",
+    "risposta_corretta": "piccolo; ha uno scarso status",
+    "altre_risposte": [
+        "grande; ha un alto status",
+        "grande; ha un scarso status",
+        "piccolo; ha un alto status"
+    ]
+},
+{
+    "domanda": "I genitori di Mario sostengono che la nuova famiglia di colore, arrivata da poco nel loro quartiere, rappresenta la 'classe media' delle persone di colore. Essi stanno facendo riferimento a un/a:",
+    "risposta_corretta": "sottotipo.",
+    "altre_risposte": [
+        "pregiudizio.",
+        "discriminazione.",
+        "sottogruppo."
+    ]
+},
+{
+    "domanda": "Il bias dell’ingroup emerge tanto dalla percezione di bontà del proprio gruppo quanto dalla percezione di ____ dell’altro gruppo.",
+    "risposta_corretta": "minaccia",
+    "altre_risposte": [
+        "etnocentrismo",
+        "predominio sociale",
+        "ostilità"
+    ]
+},
+{
+    "domanda": "Il pregiudizio è un/a:",
+    "risposta_corretta": "atteggiamento.",
+    "altre_risposte": [
+        "cognizione.",
+        "comportamento.",
+        "sentimento."
+    ]
+},
+{
+    "domanda": "La teoria secondo cui il pregiudizio nasce dalla competizione tra i gruppi per risorse insufficienti è detta:",
+    "risposta_corretta": "teoria del conflitto realistico.",
+    "altre_risposte": [
+        "teoria della competizione tra gruppi.",
+        "teoria dell'origine del pregiudizio.",
+        "teoria della tragedia delle risorse comuni."
+    ]
+},
+    {
+    "domanda": "I nonni di Chiara sono immigrati dagli Stati Uniti. Chiara crede fortemente che il suo gruppo etnico sia superiore a tutti gli altri, questo è chiamato?",
+    "risposta_corretta": "Etnocentrismo.",
+    "altre_risposte": [
+        "Pregiudizio.",
+        "Discriminazione.",
+        "Arroganza."
+    ]
+},
+{
+    "domanda": "Le persone con un alto orientamento al dominio sociale tendono a supportare politiche che ____ le gerarchie e si oppongono a politiche che le ____.",
+    "risposta_corretta": "mantengono; indeboliscono",
+    "altre_risposte": [
+        "eliminano; introducono",
+        "introducono; eliminano",
+        "indeboliscono; mantengono"
+    ]
+},
+{
+    "domanda": "Quale connessione è stata trovata tra immagine di se stessi e pregiudizio?",
+    "risposta_corretta": "Le persone con una bassa immagine di sé tendono ad avere più pregiudizi.",
+    "altre_risposte": [
+        "Non c'è connessione tra immagine di se e pregiudizio.",
+        "Le persone con un'alta immagine di sé tendono ad avere meno pregiudizi.",
+        "C'è poca connessione tra immagine di sé e pregiudizio."
+    ]
+},
+{
+    "domanda": "La frase loro sono tutti uguali, noi siamo diversi riflette:",
+    "risposta_corretta": "l'effetto di omogenietà dell'outgroup.",
+    "altre_risposte": [
+        "l'etnocentrismo.",
+        "il bias dell'ingroup.",
+        "il bias di categorizzazione."
+    ]
+},
+{
+    "domanda": "La percezione che i membri dell’outgroup siano più simili uno all’altro di quello che appaiono i membri dell’ingroup è definita:",
+    "risposta_corretta": "effetto dell'omogeneità dell'outgroup.",
+    "altre_risposte": [
+        "effetto dell'eterogeneità dell'outgroup.",
+        "effetto dell'omogeneità dell'ingroup.",
+        "effetto dell'eterogeneità dell'ingroup."
+    ]
+},
+{
+    "domanda": "____ si verifica quando si crea un nuovo stereotipo sui gruppi di persone che deviano dal loro stereotipo.",
+    "risposta_corretta": "Sottocategorizzazione",
+    "altre_risposte": [
+        "Pregiudizio",
+        "Sottoraggruppamento",
+        "Discriminazione"
+    ]
+},
+{
+    "domanda": "L'aspettativa di essere vittime del pregiudizio o della discriminazione si chiama:",
+    "risposta_corretta": "consapevolezza dello stigma.",
+    "altre_risposte": [
+        "aspettativa di discriminazione.",
+        "trattamento stereotipico.",
+        "anticipazione di pregiudizio."
+    ]
+},
+{
+    "domanda": "L'effetto 'le donne sono fantastiche' di Eagly è un esempio di:",
+    "risposta_corretta": "uno stereotipo favorevole.",
+    "altre_risposte": [
+        "sessismo ostile.",
+        "una forma di pregiudizio.",
+        "discriminazione."
+    ]
+},
+  {
+    "domanda": "Gli atteggiamenti culturali, incluso il pregiudizio, sono rappresentati e rafforzati:",
+    "risposta_corretta": "tutte le alternative sono corrette.",
+    "altre_risposte": [
+        "dalla scuola.",
+        "dalle istituzioni.",
+        "dai media."
+    ]
+},
+{
+    "domanda": "Sminuire il comportamento positivo dei membri dell'outgroup e attribuire i comportamenti negativi al loro carattere si chiama:",
+    "risposta_corretta": "bias di tipo egocentrico a favore del gruppo (Group-serving bias).",
+    "altre_risposte": [
+        "discriminazione dell'outgroup.",
+        "la teoria del mondo giusto.",
+        "la teoria del capro espiatorio."
+    ]
+},
+{
+    "domanda": "Jackman and Senter (1981) hanno scoperto che sia uomini che donne pensano che:",
+    "risposta_corretta": "le donne sono più emotive.",
+    "altre_risposte": [
+        "uomini e donne sono ugualmente compassionevoli.",
+        "uomini e donne sono ugualmente determinati.",
+        "le donne sono dei leaders migliori."
+    ]
+},
+{
+    "domanda": "La ricerca che studia i pregiudizi automatici rivela che:",
+    "risposta_corretta": "l'elaborazione automatica coinvolge le aree primitive del cervello associate alla paura.",
+    "altre_risposte": [
+        "le immagini dell'outgroup che suscitano maggiore disgusto provocano una grande attività del lobo frontale.",
+        "l'elaborazione automatica è un'attività conscia.",
+        "l'elaborazione automatica è collegata con la corteccia frontale."
+    ]
+},
+{
+    "domanda": "Come è chiamato un giudizio negativo preconcetto su un gruppo e i suoi membri?",
+    "risposta_corretta": "Pregiudizio.",
+    "altre_risposte": [
+        "Discriminazione.",
+        "Razzismo.",
+        "Sessismo."
+    ]
+},
+{
+    "domanda": "Durante un esperimento Kleck e Strenta (1980) hanno indotto delle donne a sentirsi sfigurate. Le donne che sono state truccate come se fossero sfigurate interagiscono con altre persone. I risultati dimostrano che le persone che si sentivano sfigurate:",
+    "risposta_corretta": "percepiscono l'interlocutore come più distante, teso e accondiscendente.",
+    "altre_risposte": [
+        "hanno interagito per poco tempo con l'interlocutore.",
+        "hanno interagito più a lungo con l'interlocutore.",
+        "percepiscono l'interlocutore come più gentile, aperto e disponibile."
+    ]
+},
+{
+    "domanda": "Il tuo collega ti racconta che ha due animali in casa: un gatto e un serpente; è più probabile che tu lo descriverai come un tuo nuovo collega che",
+    "risposta_corretta": "possiede un serpente.",
+    "altre_risposte": [
+        "possiene un gatto.",
+        "possiede un gatto e un serpente.",
+        "collabora con te."
+    ]
+},
+  {
+    "domanda": "Myers indica che, fino a poco tempo fa, il pregiudizio era più radicato nelle regioni in cui c'è stata la schiavitù. Ciò è in linea con il principio per cui lo/la/l' ____ produce pregiudizio.",
+    "risposta_corretta": "status iniquo",
+    "altre_risposte": [
+        "frustrazione",
+        "autoritarismo",
+        "conformità"
+    ]
+},
+{
+    "domanda": "Credere nella superiorità della propria etnia o cultura è chiamato?",
+    "risposta_corretta": "Etnocentrismo.",
+    "altre_risposte": [
+        "Discriminazione.",
+        "Arroganza.",
+        "Pregiudizio."
+    ]
+},
+    {
+    "domanda": "Williams e colleghi (2001) hanno scoperto che chi veniva ostracizzato da altri giocatori, durante un gioco in rete, era ____ che si conformasse ai giudizi errati degli altri, durante un successivo compito percettivo.",
+    "risposta_corretta": "più facile",
+    "altre_risposte": [
+        "poco possibile",
+        "più difficile",
+        "impossibile"
+    ]
+},
+{
+    "domanda": "La tendenza di una persona allo svelamento del sè, in risposta alla rivelazione di informazioni intime, si riferisce a:",
+    "risposta_corretta": "l’autorivelazione reciproca.",
+    "altre_risposte": [
+        "il fenomeno del matching.",
+        "lo scambio reciproco.",
+        "l’effetto della reciprocità della rivelazione."
+    ]
+},
+{
+    "domanda": "Secondo Elliot Aronson, in una relazione matura che va verso l’intimità, ciò che diventa veramente importante è:",
+    "risposta_corretta": "l’autenticità.",
+    "altre_risposte": [
+        "l’autonomia.",
+        "l’assenza di conflitto.",
+        "la costante lode."
+    ]
+},
+{
+    "domanda": "In uno studio dell’Università del Maryland, Clark e Mills hanno scoperto che gli scambi colpo su colpo ____ la simpatia tra le persone, quando ____.",
+    "risposta_corretta": "alimentano; la relazione è relativamente formale",
+    "altre_risposte": [
+        "diminuiscono; c’è una relazione di amicizia",
+        "diminuiscono; pensano che la relazione sia relativamente formale",
+        "non hanno effetto; c’è una relazione di amicizia"
+    ]
+},
+{
+    "domanda": "Melania crede che il suo ragazzo goda di gran lunga di più di lei dei benefici della relazione. Lei investe più tempo, sforzi e risorse. Chiaramente Melania crede che la sua relazione manchi di:",
+    "risposta_corretta": "equità.",
+    "altre_risposte": [
+        "lealtà.",
+        "apertura reciproca.",
+        "attaccamento."
+    ]
+},
+{
+    "domanda": "Nell’esperimento di Zajonc e colleghi, i ricercatori esposero i partecipanti a brevi passaggi di prosa e brevi melodie nuove, mentre si concentravano sul compito affidatogli. I risultati indicano che l’effetto di mera esposizione condusse i partecipanti a preferire:",
+    "risposta_corretta": "le melodie già ascoltate anche se non venivano riconosciute.",
+    "altre_risposte": [
+        "nessuno stimolo di fondo che aveva creato distrazione",
+        "gli stimoli che avevano relazione col compito affidatogli.",
+        "gli stimoli già sentiti solo quando erano consapevoli di averli ascoltati."
+    ]
+},
+  {
+    "domanda": "Un fattore che aumenta la probabilità che si sviluppi un’amicizia tra due persone è:",
+    "risposta_corretta": "quanto spesso le loro strade si incrociano.",
+    "altre_risposte": [
+        "il grado con cui i nostri interessi sono simili a quelli degli altri.",
+        "l’evitamento di esporsi ripetutamente.",
+        "il genere."
+    ]
+},
+{
+    "domanda": "Brent è un uomo bianco a cui è stata data la possibilità di scegliere se lavorare con Darwin o Ken. Darwin è un uomo di colore che condivide con Brent tanti valori e atteggiamenti. Ken è un uomo bianco che ha poco in comune con Brent. Chi ha più probabilità di essere scelto da Brent?",
+    "risposta_corretta": "Darwin.",
+    "altre_risposte": [
+        "Scegliere uno o l’altro è indifferente.",
+        "Ken.",
+        "Brent sceglierà di lavorare da solo."
+    ]
+},
+{
+    "domanda": "Hatfield e colleghi (1966) hanno accoppiato le matricole dell’Università del Minnesota per la settimana di benvenuto in danza. Quando agli studenti è stato chiesto di valutare i loro appuntamenti, ciò che ha determinato se l’altra persona gli è piaciuta è stata:",
+    "risposta_corretta": "l’attrazione fisica.",
+    "altre_risposte": [
+        "un passato comune di storia familiare.",
+        "la somiglianza dei valori.",
+        "la somiglianza delle competenze accademiche."
+    ]
+},
+{
+    "domanda": "Maria, una giovane donna socievole ed estroversa è molto attratta da Luca, un uomo di mezza età tranquillo e introverso. L’attrazione che prova Maria potrebbe essere spiegata da:",
+    "risposta_corretta": "l’ipotesi della complementarietà.",
+    "altre_risposte": [
+        "il fenomeno dal matching.",
+        "la teoria dello scambio.",
+        "il principio dell’equità."
+    ]
+},
+{
+    "domanda": "Se sei stato appena assunto in un ufficio e vuoi farti degli amici, ti converrà prendere una scrivania:",
+    "risposta_corretta": "vicino alla macchinetta del caffè.",
+    "altre_risposte": [
+        "vicino all’aria condizionata.",
+        "in un angolo tranquillo dell’ufficio.",
+        "più piccola di quella degli altri."
+    ]
+},
+{
+    "domanda": "La tendenza a preferire o a valutare più positivamente i nuovi stimoli dopo un’esposizione ripetuta a essi, si chiama:",
+    "risposta_corretta": "l’effetto di mera esposizione.",
+    "altre_risposte": [
+        "stimolazione proattiva.",
+        "il fenomeno della novità.",
+        "dimostrare simpatia."
+    ]
+},
+{
+    "domanda": "La relazione di Lucia e Luigi diventa sempre più intima perchè ognuno dei due si rivela all’altro in risposta allo svelamento del sè del partner. Questa relazione è caratterizzata:",
+    "risposta_corretta": "dall’effetto della reciprocità della rivelazione.",
+    "altre_risposte": [
+        "dall’intimità reciproca.",
+        "dalla disinibizione condivisa.",
+        "dalla disinibizione reciproca."
+    ]
+},
+    {
+    "domanda": "Nello stile di attaccamento adulto ____ gli individui sembrano essere più possessivi e gelosi mentre nell’attaccamento ____ gli individui investono meno nelle relazioni ed è più probabile che le interrompano.",
+    "risposta_corretta": "ansioso ambivalente; evitante",
+    "altre_risposte": [
+        "evitante; ansioso ambivalente",
+        "insicuro; apatico",
+        "sicuro; insicuro"
+    ]
+},
+{
+    "domanda": "Quale stile di attaccamento adulto è caratterizzato da un investimento minore nelle relazioni e una maggiore probabilità di essere coinvolti in una storia di una notte?",
+    "risposta_corretta": "Evitante.",
+    "altre_risposte": [
+        "Ansioso ambivalente.",
+        "Sicuro.",
+        "Insicuro."
+    ]
+},
+{
+    "domanda": "Ti senti obbligato a votare alle prossime elezioni, specialmente perchè di solito sei il primo a lamentarsi del presidente in carica. Tuttavia, non hai avuto il tempo di esplorare le differenti posizioni assunte dai candidati. Gli psicologi sociali sostengono che molto probabilmente voterai:",
+    "risposta_corretta": "il nome del candidato che hai sentito più di frequente.",
+    "altre_risposte": [
+        "chi trovi fisicamente attraente.",
+        "chi assomiglia a qualcuno che conosci.",
+        "chi assomiglia a qualcuno che ti piace."
+    ]
+},
+{
+    "domanda": "Le ricerche hanno dimostrato che tendiamo a presumere che le persone ____ siano anche più felici, più calde sessualmente, più socievoli e soddisfatte.",
+    "risposta_corretta": "belle",
+    "altre_risposte": [
+        "amichevoli",
+        "simpatiche",
+        "intelligenti"
+    ]
+},
+{
+    "domanda": "La ricerca sulla vicinanza sociale e l’attrazione sostiene che:",
+    "risposta_corretta": "la familiarità conduce all’attrazione.",
+    "altre_risposte": [
+        "la familiarità conduce al disprezzo.",
+        "la prossimità porta all’affezione e all’animosità con uguale frequenza.",
+        "la distanza fa crescere l’affetto nel cuore."
+    ]
+},
+{
+    "domanda": "La distanza funzionale si riferisce a:",
+    "risposta_corretta": "la vicinanza.",
+    "altre_risposte": [
+        "la distanza geografica tra due luoghi fisici.",
+        "la direzione e il percorso di quando si cerca deliberatamente una persona.",
+        "la distanza in linea d’area tra due residenze."
+    ]
+},
+{
+    "domanda": "Una ricerca di Aronson e Linder (1965) suggerisce che il più delle volte ci piacciono di più le persone che:",
+    "risposta_corretta": "dopo una precedente critica ci valutano in modo positivo.",
+    "altre_risposte": [
+        "ci valutano in modo costantemente critico.",
+        "ci valutano costantemente positivamente.",
+        "ci valutano in modo negative costantemente."
+    ]
+},
+  {
+    "domanda": "Il bisogno di essere connessi agli altri in relazioni stabili e intime è definito:",
+    "risposta_corretta": "bisogno di appartenenza.",
+    "altre_risposte": [
+        "ansia di associarsi.",
+        "attaccamento.",
+        "predisposizione all’affiliazione."
+    ]
+},
+{
+    "domanda": "La simpatia anticipatoria – aspettarsi che qualcuno sarà piacevole e congeniale – aumenta la possibilità:",
+    "risposta_corretta": "di formare una relazione soddisfacente.",
+    "altre_risposte": [
+        "di essere coinvolti in un rapporto iniquo.",
+        "di una relazione disfunzionale.",
+        "di essere sfruttati nelle prime fasi di una relazione."
+    ]
+},
+{
+    "domanda": "Sette bambini su dieci esibiscono l’attaccamento ____.",
+    "risposta_corretta": "sicuro",
+    "altre_risposte": [
+        "insicuro",
+        "evitante",
+        "ansioso-ambivalente"
+    ]
+},
+{
+    "domanda": "La tendenza di uomini e donne a scegliere dei partner che si abbinino bene con loro quanto ad attrattività e ad altre caratteristiche è definita:",
+    "risposta_corretta": "fenomeno del matching.",
+    "altre_risposte": [
+        "fenomeno della compatibilità.",
+        "fenomeno dell'attrazione.",
+        "fenomeno dell'abbinamento."
+    ]
+},
+{
+    "domanda": "Durante una festa Elisa incontra Roberto e Bianca. I tre iniziano una discussione filosofica che dura per tutta sera. Alla fine della serata Elisa ha scoperto che Bianca vede le cose come le vede lei, mentre Roberto vede le cose in modo diverso da lei. Probabilmente a Elisa:",
+    "risposta_corretta": "piacerà di più Bianca.",
+    "altre_risposte": [
+        "piaceranno Roberto quanto Bianca.",
+        "piacerà di più Roberto.",
+        "non piaceranno né Roberto né Bianca."
+    ]
+},
+{
+    "domanda": "L’ipotesi ____ è il grado con cui due persone in relazione si completano vicendevolmente.",
+    "risposta_corretta": "della complementarietà",
+    "altre_risposte": [
+        "del matching",
+        "dell’accentuazione",
+        "della reciprocità"
+    ]
+},
+{
+    "domanda": "Quando i benefici ottenuti sono proporzionali al contributo dato in una relazione si parla di:",
+    "risposta_corretta": "principio di equità.",
+    "altre_risposte": [
+        "principio di uguaglianza.",
+        "principio di reciprocità.",
+        "principio di amore."
+    ]
+},
+{
+    "domanda": "Secondo Rusbult (1983), esistono diversi fattori che influenzano direttamente l’impegno in un rapporto. Quale dei seguenti NON è uno di questi?",
+    "risposta_corretta": "Quando si ha uno stile di attaccamento evitante.",
+    "altre_risposte": [
+        "Quando si ha la sensazione che se il rapporto finisse si perderebbe poco.",
+        "Quando si ha la sensazione che ci si divertirebbe di più in un altro rapporto.",
+        "Quando non si è soddisfatti del rapporto."
+    ]
+},
+    {
+    "domanda": "I partners di un rapporto di comunanza sono diversi dai partners in un rapporto di scambio, nel senso che i primi sono direttamente coinvolti nel benessere del partner e:",
+    "risposta_corretta": "trattano l’altro in modo favorevole per mostrargli che vogliono prendersene cura.",
+    "altre_risposte": [
+        "scambiano favori per mantenere l’equità.",
+        "hanno scambi che avvengono in senso unilaterale.",
+        "sono immuni dal riconoscere la non equità."
+    ]
+},
+{
+    "domanda": "Giorgia è attraente, intelligente e di alto status sociale, e sposa Matteo che è attraente, intelligente e di status sociale alto. La loro relazione può essere spiegata come un esempio di:",
+    "risposta_corretta": "fenomeno del matching.",
+    "altre_risposte": [
+        "complementarietà.",
+        "stereotipo di bellezza fisica.",
+        "effetto di mera esposizione."
+    ]
+},
+{
+    "domanda": "Darley e Berscheid (1967) con i loro esperimenti hanno dimostrato che la mera anticipazione dell’interazione aumenta:",
+    "risposta_corretta": "la simpatia.",
+    "altre_risposte": [
+        "l'ansia.",
+        "la rabbia.",
+        "l'antipatia."
+    ]
+},
+{
+    "domanda": "Le persone sono motivate a massimizzare i benefici e minimizzare i costi delle loro relazioni. Questa idea è la teoria ____.",
+    "risposta_corretta": "dello scambio sociale",
+    "altre_risposte": [
+        "di amore di compagnia",
+        "della penetrazione sociale",
+        "dello stile di attaccamento"
+    ]
+},
+{
+    "domanda": "La tendenza degli opposti a stare assieme e sposarsi:",
+    "risposta_corretta": "non è mai stata dimostrata in modo affidabile dalle ricerche.",
+    "altre_risposte": [
+        "è stata documentata solo tra le coppie adolescenti.",
+        "è in aumento in Italia dal 1960.",
+        "è potente come il collegamento tra somiglianza e attrazione."
+    ]
+},
+    {
+    "domanda": "Secondo la teoria dello scambio sociale, usiamo una strategia di ____ nel decidere quando e se aiutare gli altri.",
+    "risposta_corretta": "analisi dei costi e dei benefici",
+    "altre_risposte": [
+        "utilità marginale",
+        "compensazione",
+        "confronto sociale"
+    ]
+},
+{
+    "domanda": "L’idea che l’altruismo verso i propri consanguinei viene privilegiato allo scopo di incrementare la sopravvivenza di un patrimonio genetico reciprocamente condiviso, si riferisce all’idea:",
+    "risposta_corretta": "della selezione in consanguineità.",
+    "altre_risposte": [
+        "della selezione dell’evoluzione.",
+        "dell’auto mutuo aiuto.",
+        "della selezione dell’altruismo."
+    ]
+},
+{
+    "domanda": "Se le vittime sembrano responsabili dei propri problemi a causa della pigrizia o per mancanza di cautela, le persone sembrano meno disponibili ad aiutarle. La risposta di aiuto sembra strettamente legata:",
+    "risposta_corretta": "alle attribuzioni.",
+    "altre_risposte": [
+        "all’empatia.",
+        "al concetto di sè.",
+        "all’effetto di sovragiustificazione."
+    ]
+},
+{
+    "domanda": "In uno studio di Latané e Rodin (1969), una ricercatrice apparentemente cadeva dalla sedia e si faceva male a una caviglia. Quando i presenti erano due, qual è la percentuale di coloro che offrivano aiuto?",
+    "risposta_corretta": "40%.",
+    "altre_risposte": [
+        "100%.",
+        "10%.",
+        "70%."
+    ]
+},
+{
+    "domanda": "Quando si agisce, si cercano di ridurre i costi e si massimizzare i benefici. Questa idea si riferisce a:",
+    "risposta_corretta": "la teoria dello scambio sociale.",
+    "altre_risposte": [
+        "l’egoismo.",
+        "la teoria del sè.",
+        "la norma di reciprocità."
+    ]
+},
+{
+    "domanda": "La tecnica della “porta in faccia” ha successo perché la contro-offerta è basata su una richiesta:",
+    "risposta_corretta": "più piccola.",
+    "altre_risposte": [
+        "più grande.",
+        "casuale.",
+        "sistematica."
+    ]
+},
+{
+    "domanda": "Coloro che sono ____ spesso sono anche pronti a prestare aiuto.",
+    "risposta_corretta": "felici",
+    "altre_risposte": [
+        "riposate",
+        "educate",
+        "socievoli"
+    ]
+},
+    {
+    "domanda": "Secondo la teoria dello scambio sociale le ricompense che motivano la persona ad aiutare possono essere:",
+    "risposta_corretta": "interne ed esterne.",
+    "altre_risposte": [
+        "non riconoscibili prima di svolgere l’azione di aiuto.",
+        "esterne.",
+        "interne."
+    ]
+},
+{
+    "domanda": "In confronto alle persone con basso automonitoraggio, le persone con un alto livello di automonitoraggio sono particolarmente pronte all’aiuto se pensano che:",
+    "risposta_corretta": "il comportamento d’aiuto sarà ricompensato dal punto di vista sociale.",
+    "altre_risposte": [
+        "nessuno le stia guardando.",
+        "nessun altro è pronto ad aiutare.",
+        "l’aiuto avrà effetto."
+    ]
+},
+{
+    "domanda": "La sollecitudine nel dover compiere delle buone azioni dopo averne fatte di riprovevoli riflette il nostro bisogno di:",
+    "risposta_corretta": "ridurre il senso di colpa e ristabilire un’immagine pubblica positiva.",
+    "altre_risposte": [
+        "ristabilire un’immagine pubblica positiva.",
+        "ridurre il senso di colpa.",
+        "nessuna delle alternative è corretta."
+    ]
+},
+{
+    "domanda": "____ è un’emozione evocata dalla simpatia per gli altri.",
+    "risposta_corretta": "L’empatia",
+    "altre_risposte": [
+        "L’egoismo",
+        "L’altruismo",
+        "Il voyeurismo"
+    ]
+},
+{
+    "domanda": "L’effetto passante riflette il fatto che:",
+    "risposta_corretta": "“non c’è sicurezza nei grandi numeri”.",
+    "altre_risposte": [
+        "“gli uccelli con le stesse piume stanno nello stesso stormo”.",
+        "“due teste sono meglio di una”.",
+        "“c’è sicurezza nei grandi numeri”."
+    ]
+},
+{
+    "domanda": "Secondo la prospettiva evoluzionistica, potrebbe essere molto difficile spiegare perché:",
+    "risposta_corretta": "Rita rischia la vita per salvare un’estranea dall’essere assassinata.",
+    "altre_risposte": [
+        "Nicola aiuta sua mamma a pulire la casa",
+        "Tiberio aiuta il suo vicino di casa a dipingere la cucina.",
+        "Gino paga il conto dell’ospedale di suo figlio."
+    ]
+},
+{
+    "domanda": "Una compagna di Bianca le chiede gli appunti dell’esame che c’è tra un mese. La ricerca suggerisce che Bianca sarà più propensa a prestare gli appunti qualora la compagna glieli stia chiedendo perchè:",
+    "risposta_corretta": "ha avuto delle assenze dovute ad una malattia.",
+    "altre_risposte": [
+        "non è stata in grado di concentrarsi in classe.",
+        "non gradisce questo corso come invece gradisce gli altri.",
+        "non ha preso appunti adeguati."
+    ]
+},
+    {
+    "domanda": "Katzev (1978) scoprì che dopo che alcune persone erano state rimproverate per aver dato da mangiare a un orso dello zoo, anche se era proibito, queste ____ ad aiutare una persona rispetto alle persone che non erano state rimproverate.",
+    "risposta_corretta": "erano meno inclini",
+    "altre_risposte": [
+        "erano abbastanza inclini",
+        "erano più inclini",
+        "erano ugualmente inclini"
+    ]
+},
+{
+    "domanda": "Quale delle seguenti affermazioni è nell’ordine corretto?",
+    "risposta_corretta": "Umore positivo; comportamento positivo; pensieri positivi; autostima positiva.",
+    "altre_risposte": [
+        "Comportamento positivo; umore positivo; pensieri positivi; autostima positiva.",
+        "Umore positivo; pensieri positivi; autostima positiva; comportamento positivo.",
+        "Comportamento positivo; pensieri positivi; autostima positiva; umore positivo."
+    ]
+},
+{
+    "domanda": "Quale delle seguenti teorie si riferisce al fatto che tendiamo ad indirizzare l’altruismo verso i nostri parenti piuttosto che verso i nostri amici?",
+    "risposta_corretta": "La teoria evoluzionistica.",
+    "altre_risposte": [
+        "La teoria dell’auto-presentazione.",
+        "La teoria della norma sociale.",
+        "La teoria dello scambio sociale."
+    ]
+},
+{
+    "domanda": "La relazione tra il grado di consapevolezza di sè e la disponibilità ad aiutare è:",
+    "risposta_corretta": "positiva.",
+    "altre_risposte": [
+        "negativa.",
+        "curvilineare.",
+        "neutrale."
+    ]
+},
+{
+    "domanda": "La ricerca che studia genere e norme di aiuto rivela che ____ offrono più aiuto quando le persone che hanno bisogno sono donne, e ____ offrono uguale aiuto sia agli uomini che alle donne.",
+    "risposta_corretta": "gli uomini; le donne",
+    "altre_risposte": [
+        "uomini più giovani; donne più vecchie",
+        "gli uomini più vecchi; le donne più giovani",
+        "le donne; gli uomini"
+    ]
+},
+{
+    "domanda": "Stai camminando per strada con la tua amica Sabrina, ad un certo punto lei si ferma perchè vede un bambino che sta piangendo. Si avvicina al bambino e gli chiede perchè piange. Quando scopre che il bambino piange perchè si è perso, Sabrina, nonostante abbia una giornata molto impegnata, aiuta il bambino a trovare la strada di casa. Il comportamento di Sabrina è caratterizzato:",
+    "risposta_corretta": "da altruismo.",
+    "altre_risposte": [
+        "da egoismo.",
+        "dalla teoria dello scambio sociale.",
+        "dalla norma di reciprocità."
+    ]
+},
+{
+    "domanda": "Quale delle seguenti NON è una fase dell’albero decisionale di Darley e Latané?",
+    "risposta_corretta": "Attivare la norma di reciprocità.",
+    "altre_risposte": [
+        "Assumersi la responsabilità dell’aiuto.",
+        "Interpretare l’evento come emergenza.",
+        "Notare l’evento."
+    ]
+},
+    {
+    "domanda": "L’altruismo è ____. L’egoismo è ____.",
+    "risposta_corretta": "il bene dell’altro; il proprio bene",
+    "altre_risposte": [
+        "reciprocità; giustizia sociale",
+        "definito da Gouldner; definito da Batson",
+        "sostenuto dalla teoria evoluzionistica; sostenuto dalla teoria della norma sociale"
+    ]
+},
+{
+    "domanda": "L'effetto secondo il quale una persona è meno incline a prestare aiuto o soccorso quando sono presenti altri spettatori occasionali è definito:",
+    "risposta_corretta": "effetto passante.",
+    "altre_risposte": [
+        "influenze della situazione.",
+        "effetto spettatore occasionale.",
+        "effetto spettatore osservante."
+    ]
+},
+{
+    "domanda": "Considerare gli altri come facenti parte della cerchia delle proprie preoccupazioni morali è la definizione di:",
+    "risposta_corretta": "inclusione morale.",
+    "altre_risposte": [
+        "moralismo dell’ingroup.",
+        "altruismo esclusivo.",
+        "esclusione morale."
+    ]
+},
+{
+    "domanda": "La norma di responsabilità sociale si riferisce all’aspettativa:",
+    "risposta_corretta": "di aiutare le persone che dipendono dal nostro intervento.",
+    "altre_risposte": [
+        "ricevere aiuto, dopo che le persone l’hanno chiesto.",
+        "che i leaders aiuteranno di più di tutti gli altri componenti del gruppo.",
+        "che le persone ci aiuteranno con l’obiettivo di ricevere un aiuto più tardi."
+    ]
+},
+{
+    "domanda": "Il sociologo Gouldner (1960) sostiene che la norma della reciprocità:",
+    "risposta_corretta": "è universale come il tabù dell’incesto.",
+    "altre_risposte": [
+        "è la base ultima dei sentimenti di empatia.",
+        "ha un piccolo spazio nelle relazioni come per esempio di matrimonio.",
+        "è più presente nelle donne che negli uomini."
+    ]
+},
+{
+    "domanda": "Darley e Latané descrivono la sequenza decisionale che determina se le persone interverranno o meno in un caso di emergenza. Quale di questi NON è una fase di questo processo decisionale?",
+    "risposta_corretta": "Valutare il desiderio della vittima di essere aiutata.",
+    "altre_risposte": [
+        "Interpretare l’evento come emergenza.",
+        "Assumersi la responsabilità dell’intervento.",
+        "Notare l’evento."
+    ]
+},
+{
+    "domanda": "Dopo che il suo vicino di casa l’ha aiutata a dipingere i muri di casa sua, lei si sente in obbligo ad aiutare il vicino a montare la cucina nuova. Il suo senso di obbligo deriva da:",
+    "risposta_corretta": "la norma di reciprocità.",
+    "altre_risposte": [
+        "la norma dello status simile.",
+        "la norma della responsabilità sociale.",
+        "il fenomeno della porta in faccia."
+    ]
+},
+{
+    "domanda": "Le persone sono più propense ad aiutare se:",
+    "risposta_corretta": "si aspettano di rivedere la persona aiutata.",
+    "altre_risposte": [
+        "ritengono di essere diverse dalla persona aiutata.",
+        "pensano di rimanere anonime.",
+        "non si aspettano di rivedere la persona aiutata."
+    ]
+},
+    {
+    "domanda": "Una persona che è intensamente concentrate su se stessa a causa di un profondo dolore:",
+    "risposta_corretta": "è meno propensa ad aiutare gli altri.",
+    "altre_risposte": [
+        "è più propensa ad aiutare gli altri.",
+        "prova piacere nell’aiutare gli altri.",
+        "non prova piacere nell’aiutare gli altri."
+    ]
+},
+{
+    "domanda": "Darley e Batson (1973) hanno studiato il comportamento di aiuto nei seminaristi di Princeton con l’obiettivo di comprendere se il comportamento di aiuto veniva influenzato da:",
+    "risposta_corretta": "le pressioni temporali.",
+    "altre_risposte": [
+        "la differenza di età.",
+        "l’educazione religiosa.",
+        "la responsabilità sociale."
+    ]
+},
+{
+    "domanda": "Quale tra i seguenti psicologi crede che l’empatia disinteressata che induce all’altruismo faccia parte della natura umana?",
+    "risposta_corretta": "Batson.",
+    "altre_risposte": [
+        "Schaller.",
+        "Cialdini.",
+        "Darley."
+    ]
+},
+{
+    "domanda": "Quale tra le seguenti tecniche potrebbero usare delle insegnati se desiderassero promuovere nei bambini l’altruismo?",
+    "risposta_corretta": "Mostrare film di eroi che rischiano la propria vita per aiutare gli altri.",
+    "altre_risposte": [
+        "Reprimere e punire l’aggressione palese.",
+        "Offrire una bicicletta nuova per il bambino o la bambina che si dimostra più incline all’aiuto nell’arco di due settimane.",
+        "Infondere un senso di patriottismo."
+    ]
+},
+{
+    "domanda": "Osservando persone in casi di emergenza Darley e Latané (1970) scoprirono che ____ riduceva in modo consistente l’intervento in situazioni di aiuto.",
+    "risposta_corretta": "la presenza di altri spettatori occasionali",
+    "altre_risposte": [
+        "la mancanza di empatia",
+        "la concentrazione su di sè",
+        "l’alienazione sociale"
+    ]
+},
+{
+    "domanda": "Le ricerche testimoniano che alcune persone persistono nel voler aiutare un soggetto sofferente anche quando sono convinte che la loro stessa ansia sia legata agli effetti di un farmaco di modulazione dell’umore, questo suggerisce che:",
+    "risposta_corretta": "l’altruismo spontaneo esiste.",
+    "altre_risposte": [
+        "la teoria dello scambio sociale è un potente predittore del comportamento di aiuto.",
+        "l'empatia è un predittore scarso del comportamento di aiuto.",
+        "l’egoismo è una motivazione forte ad aiutare gli altri."
+    ]
+},
+{
+    "domanda": "Chi tra i seguenti sarà più propenso ad acconsentire a una richiesta inaspettata di un ospedale, che chiede una donazione caritatevole?",
+    "risposta_corretta": "La mamma di Maria, che ha appena ricevuto una valutazione positiva dal suo capo.",
+    "altre_risposte": [
+        "La sorella di Maria, che si affretta a raggiungere il suo appuntamento programmato col dottore di famiglia.",
+        "Il fratello di Maria, che è depresso perchè non ha passato l’esame di fisica.",
+        "Il papà di Maria, che è infastidito dal ragazzo che porta il giornale, perchè gli calpesta sempre l’aiuola."
+    ]
+},
+    {
+    "domanda": "In un esperimento Darley e Batson (1973) davano ai seminaristi di Princeton del tempo per raccogliere i pensieri prima di registrare un breve discorso, e poi venivano mandati in studio di registrazione. Quei partecipanti ____, erano più inclini a fermarsi e offrire aiuto alla vittima che incontravano sulla strada per lo studio di registrazione.",
+    "risposta_corretta": "a cui veniva dato del tempo in più per raggiungere lo studio",
+    "altre_risposte": [
+        "a cui veniva detto che erano in ritardo per la registrazione",
+        "a cui veniva chiesto di parlare della parabola del Buon Samaritano",
+        "a cui veniva chiesto di parlare delle opportunità di carriera"
+    ]
+},
+{
+    "domanda": "La ricerca indica che i modelli prosociali:",
+    "risposta_corretta": "promuovono altruismo negli osservatori.",
+    "altre_risposte": [
+        "diminuiscono l’aiuto perchè gli osservatori sembrano credere che l’aiuto sia meno necessario.",
+        "presentati in televisione non hanno nessun effetto sui bambini.",
+        "promuovono altruismo nei bambini, ma non negli adulti."
+    ]
+},
+{
+    "domanda": "Hoffman (1981) scopre che i bambini piangono di più quando sentono un altro bambino piangere. Questo è un esempio di:",
+    "risposta_corretta": "empatia.",
+    "altre_risposte": [
+        "voyeurismo.",
+        "altruismo.",
+        "egoismo."
+    ]
+},
+{
+    "domanda": "La ricerca sulla relazione tra tratti di personalità e comportamenti di aiuto dimostra che:",
+    "risposta_corretta": "persona e situazione interagiscono nel predire il comportamento d’aiuto.",
+    "altre_risposte": [
+        "il genere è l’unico fattore che predice l’aiuto meglio dei fattori situazionali.",
+        "la forte assertività è predittore del comportamento di aiuto in varie situazioni.",
+        "i tratti di personalità non influenzano l’atteggiamento di aiuto."
+    ]
+},
+{
+    "domanda": "In uno studio di Latané e Rodin (1969), una ricercatrice apparentemente cadeva dalla sedia e si faceva male a una caviglia. Qual è la percentuale di coloro che erano soli nella stanza e offrivano aiuto?",
+    "risposta_corretta": "70%.",
+    "altre_risposte": [
+        "100%.",
+        "10%.",
+        "40%."
+    ]
+},
+{
+    "domanda": "Gli psicologi evoluzionisti potrebbero avere grandi difficoltà a spiegare perchè:",
+    "risposta_corretta": "Giulia dona il midollo spinale per salvare la vita di un’estranea.",
+    "altre_risposte": [
+        "Riccardo aiuta il suo migliore amico a imbiancare la casa.",
+        "Simone dona un rene per salvare la vita di suo figlio.",
+        "Monica accompagna la sua vicina di casa dal dottore."
+    ]
+},
+{
+    "domanda": "Quando le persone hanno bisogno del nostro aiuto, siamo più disponibili a darglielo se attribuiamo il loro bisogno:",
+    "risposta_corretta": "a circostanze oltre il loro controllo.",
+    "altre_risposte": [
+        "a una mancanza di motivazione.",
+        "a una pianificazione sbagliata.",
+        "al loro umore."
+    ]
+},
+    {
+    "domanda": "In quale dei seguenti paesi la norma di responsabilità sociale è maggiormente supportata?",
+    "risposta_corretta": "India.",
+    "altre_risposte": [
+        "Stati Uniti.",
+        "Gran Bretagna.",
+        "Canada."
+    ]
+},
+{
+    "domanda": "La motivazione che porta a incrementare il benessere altrui senza alcuna aspettativa conscia di vantaggio personale, si chiama:",
+    "risposta_corretta": "altruismo.",
+    "altre_risposte": [
+        "teoria dello scambio sociale.",
+        "norma di responsabilità sociale.",
+        "egoismo."
+    ]
+},
+{
+    "domanda": "Le persone in ritardo sono meno inclini a prestare aiuto perchè:",
+    "risposta_corretta": "non si concedono il tempo per mettersi in sintonia con la persona bisognosa.",
+    "altre_risposte": [
+        "pensano che il malcapitato potrà essere aiutato da altri.",
+        "pensano che i costi del prestare aiuto in quel momento siano decisamente troppo alti.",
+        "tendono ad essere in uno stato d’animo negative e quindi sono meno disposti ad aiutare."
+    ]
+},
+{
+    "domanda": "Chi dei seguenti è meno probabile che si fermi a soccorrere un pedone ferito?",
+    "risposta_corretta": "Ivan, che è in ritardo di dieci minuti per una riunione di lavoro.",
+    "altre_risposte": [
+        "Nicola che è in anticipo di cinque minuti a un appuntamento.",
+        "Tatiana, che ha appena trovato 10 euro al supermercato.",
+        "Anastasia, che ha perso un euro alle macchinette."
+    ]
+},
+{
+    "domanda": "Gli studi sullo stato d’animo e la propensione a prestare aiuto, mostrano che le persone che si sentono ____ è più probabile che prestino aiuto.",
+    "risposta_corretta": "in colpa",
+    "altre_risposte": [
+        "fortemente ferite",
+        "infelici",
+        "superiori"
+    ]
+},
+{
+    "domanda": "Giulia e le sue amiche si sono offerte di accompagnare dal medico alcune persone anziane che sono sole e non hanno nessuno che le possa accompagnare. La loro azione è basata sulla norma di:",
+    "risposta_corretta": "responsabilità sociale.",
+    "altre_risposte": [
+        "reciprocità.",
+        "scambio.",
+        "equità."
+    ]
+},
+{
+    "domanda": "Le persone che vivono in ____ sono meno disposte a inoltrare un messaggio telefonico, meno disposte a imbucare lettere perse, meno cooperative quando viene chiesto loro di rispondere a un sondaggio, meno disposte ad aiutare un bambino che si è perso e meno inclini a fare piccoli favori.",
+    "risposta_corretta": "grandi città",
+    "altre_risposte": [
+        "paesaggi rurali",
+        "piccoli paesi",
+        "appartamento"
+    ]
+},
+    {
+    "domanda": "La norma di responsabilità sociale viene selettivamente applicata secondo uno dei principi qui di seguito, quale?",
+    "risposta_corretta": "Dai alle persone quello che meritano.",
+    "altre_risposte": [
+        "Dai via solo quello che non usi più.",
+        "Fai agli altri ciò che vuoi sia fatto a te.",
+        "Dai, ma fatti pagare con gli interessi."
+    ]
+},
+{
+    "domanda": "Inciampi in un ramo e ti sloghi una caviglia. Secondo l’effetto passante uno sconosciuto sarà più propenso ad offrirti aiuto se:",
+    "risposta_corretta": "non c’è nessun altro presente",
+    "altre_risposte": [
+        "ci sono presenti quattro persone",
+        "ci sono presenti dieci persone",
+        "ci sono due persone presenti"
+    ]
+},
+{
+    "domanda": "La ricerca sull’altruismo di Daniel Batson riporta che l’altruismo indotto dall’empatia:",
+    "risposta_corretta": "può spiegare i comportamenti prosociali.",
+    "altre_risposte": [
+        "assolve a tutte le necessità.",
+        "diminuisce la cooperazione.",
+        "non inibisce l’aggressione."
+    ]
+},
+{
+    "domanda": "Prima di decidere se aiutare nella gestione degli alloggi per i senzatetto, Sara ha pesato sia i costi (alzarsi all’alba) che i benefici (sentirsi bene con se stessa) che ciò potrebbe comportare. L’uso di questa strategia si riferisce a:",
+    "risposta_corretta": "la teoria dello scambio sociale.",
+    "altre_risposte": [
+        "l’ipotesi dell’empatia.",
+        "la norma di responsabilità sociale.",
+        "La teoria del confronto sociale"
+    ]
+}    
 ]
 
 
